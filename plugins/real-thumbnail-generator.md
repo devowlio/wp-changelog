@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.7 (2020-02-26)
+
+
+### fix
+
+* compatibility running Real Media Library and Real Thumbnail Generator together (hotfix)
+
+
+
+
+
 ## 2.0.6 (2020-02-26)
 
 
