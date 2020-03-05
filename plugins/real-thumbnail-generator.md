@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.9 (2020-03-05)
+
+
+### build
+
+* chunk vendor libraries (#3wkvfe) and update antd@4 (#3wnntb)
+
+
+### chore
+
+* update dependencies (webpack, types)
+
+
+
+
+
 ## 2.0.8 (2020-02-27)
 
 

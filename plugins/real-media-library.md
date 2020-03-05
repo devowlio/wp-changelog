@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.7.3 (2020-03-05)
+
+
+### build
+
+* chunk vendor libraries (#3wkvfe) and update antd@4 (#3wnntb)
+
+
+### chore
+
+* update dependencies (webpack, types)
+
+
+### fix
+
+* **lite :** while adding a new plugin an exception is thrown (#3yp0v3)
+* Export Media Library compatibility when clicking the toolbar export button while All or Unorganized is selected (#3yeqkw)
+* links in media menu are not accessible (e. g. Export Media Library, Imagify, #3yeqkw)
+* **lite :** add preview image for order subfolders (#3wkbtk)
+
+
+
+
+
 ## 4.7.2 (2020-02-27)
 
 
