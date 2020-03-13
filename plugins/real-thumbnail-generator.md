@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.10 (2020-03-13)
+
+
+### chore
+
+* make ready for WordPress 5.4 release (#42g9wx)
+
+
+### fix
+
+* i18n is not correctly initialized
+
+
+
+
+
 ## 2.0.9 (2020-03-05)
 
 

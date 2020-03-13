@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.7.4 (2020-03-13)
+
+
+### chore
+
+* make ready for WordPress 5.4 release (#42g9wx)
+
+
+### fix
+
+* allow import from Responsive Lightbox & Gallery
+* compatibility with LernaPress Frontend Editor (#44jczf)
+* i18n is not correctly initialized
+
+
+
+
+
 ## 4.7.3 (2020-03-05)
 
 
