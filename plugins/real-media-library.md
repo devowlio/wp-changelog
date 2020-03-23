@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.7.5 (2020-03-23)
+
+
+### build
+
+* initial release of WP Real Custom Post Order plugin (#46ftef)
+
+
+### docs
+
+* seo optimize wordpress.org description for Real Media Library
+
+
+### fix
+
+* change folder in media dialog folder dropdown (#46nkby)
+
+
+
+
+
 ## 4.7.4 (2020-03-13)
 
 
