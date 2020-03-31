@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.12 (2020-03-31)
+
+
+### chore
+
+* update dependencies (#3cj43t)
+* **release :** publish [ci skip]
+
+
+### ci
+
+* use concurrency 1 in yarn disclaimer generation
+
+
+### fix
+
+* posts could not be dragged when RCPO is active (#4cqgwj)
+
+
+### style
+
+* run prettier@2 on all files (#3cj43t)
+
+
+### test
+
+* configure jest setupFiles correctly with enzyme and clearMocks (#4akeab)
+* generate test reports (#4cg6tp)
+
+
+
+
+
 ## 3.2.11 (2020-03-27)
 
 
