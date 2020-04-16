@@ -3,6 +3,53 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.13 (2020-04-16)
+
+
+### build
+
+* adjust legal information for envato pro version (#46fjk9)
+* move test namespaces to composer autoload-dev (#4jnk84)
+* reduce bundle size by ~25% (#4jjq0u)
+* scope PHP vendor dependencies (#4jnk84)
+
+
+### chore
+
+* create real-ad package to introduce more UX after installing the plugin (#1aewyf)
+* rename real-ad to real-utils (#4jpg5f)
+* update to Cypress v4 (#2wee38)
+
+
+### ci
+
+* correctly build i18n frontend files (#4jjq0u)
+* run package jobs also on devops changes
+
+
+### docs
+
+* broken links in developer documentation (#5yg1cf)
+
+
+### fix
+
+* link to Real Custom Post Order (#5ygvhw)
+
+
+### style
+
+* reformat php codebase (#4gg05b)
+
+
+### test
+
+* avoid session expired error in E2E tests (#3rmp6q)
+
+
+
+
+
 ## 3.2.12 (2020-03-31)
 
 
