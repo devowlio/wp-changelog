@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.7.9 (2020-04-20)
+
+
+### fix
+
+* folder tree not loading in page builders like Elementor and Divi Builder (#4rknyh)
+
+
+
+
+
 ## 4.7.8 (2020-04-16)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library
