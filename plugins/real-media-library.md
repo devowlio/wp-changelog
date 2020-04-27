@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.7.10 (2020-04-27)
+
+
+### chore
+
+* add hook_suffix to enqueue_scripts_and_styles function (#4ujzx0)
+
+
+### docs
+
+* animated Real Media Library logo for wordpress.org
+* remove inappropriate tags from the description at wordpress.org
+* update user documentation and redirect to help.devowl.io (#6c9urq)
+
+
+### fix
+
+* console error 'Cannot read property hooks of undefined' (#2j57er)
+* droppable does no longer work after searching for a folder / category (#4wn81h)
+* error after renaming an item without changing the name (#4wm93q)
+* remove Tatsu Page Builder compatibility because it uses outdated libraries, wait for update... (#4ug589)
+
+
+### style
+
+* higher distance between setting groups in folder details (#4aqkwf)
+
+
+### test
+
+* add smoke tests (#4rm5ae)
+* automatically retry cypress tests (#3rmp6q)
+
+
+
+
+
 ## 4.7.9 (2020-04-20)
 
 

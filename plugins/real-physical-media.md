@@ -3,6 +3,61 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2020-04-27)
+
+
+### chore
+
+* add hook_suffix to enqueue_scripts_and_styles function (#4ujzx0)
+
+
+### docs
+
+* update user documentation and redirect to help.devowl.io (#6c9urq)
+
+
+### feat
+
+* allow to enable / disable lowercase path (#4ar4pf)
+* allow to transform special characters (#4ar3g1)
+* improved installation process (#4ar07r)
+* rewrite English translation and add German translation (#4aqkwf)
+
+
+### fix
+
+* compatibility with Redirection plugin (#4ar786)
+* confirm first before clearing SEO redirects (#4rqhh0)
+* deactivate / activate redirects in SEO dialog (#4rqhh0)
+* do not reload page after changing guid and post_name length (#4rqhh0)
+* initial queue after page load
+* modify post_names and guid field in settings (#4rqhh0)
+* move to queue in attachment media dialog reloads now correctly (#4rqhh0)
+* notice could not be removed as non-admin
+* show automatic queueing hint after first movement of files (#4ar6gz)
+* show notice after activating a rename handler (#4aqz39)
+* show queue popover when using the plugin for first time(#4aqz39)
+
+
+### style
+
+* add closeable X to popover (#4rqhh0)
+* hide duration of processed items and database size in SEO dialog (#4rqhh0)
+* list cronjob urls in readonly-input with copy functionality (#4ar47j)
+* move handler picker to settings (#4rqhh0)
+* overlapping arrow in queue popover (#4rqhh0)
+* wordings in SEO dialog and settings (#4rqhh0)
+
+
+### test
+
+* add smoke tests (#4rm5ae)
+* automatically retry cypress tests (#3rmp6q)
+
+
+
+
+
 ## 1.0.10 (2020-04-20)
 
 **Note:** Version bump only for package @devowl-wp/real-physical-media

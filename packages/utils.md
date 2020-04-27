@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.6 (2020-04-27)
+
+
+### chore
+
+* add hook_suffix to enqueue_scripts_and_styles function (#4ujzx0)
+* **release :** publish [ci skip]
+
+
+### fix
+
+* cronjob URL not working with plain permalink setting (#4pmk26, #4ar47j)
+
+
+
+
+
 ## 1.0.5 (2020-04-16)
 
 

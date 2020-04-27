@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.16 (2020-04-27)
+
+
+### chore
+
+* add hook_suffix to enqueue_scripts_and_styles function (#4ujzx0)
+
+
+### docs
+
+* update user documentation and redirect to help.devowl.io (#6c9urq)
+
+
+### fix
+
+* droppable does no longer work after searching for a folder / category (#4wn81h)
+* error after renaming an item without changing the name (#4wm93q)
+
+
+### test
+
+* add smoke tests (#4rm5ae)
+* automatically retry cypress tests (#3rmp6q)
+
+
+
+
+
 ## 3.2.15 (2020-04-20)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library
