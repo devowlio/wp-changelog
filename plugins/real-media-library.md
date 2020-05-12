@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.8.0 (2020-05-12)
+
+
+### build
+
+* cleanup temporary i18n files correctly
+
+
+### feat
+
+* allow to import from Media Library Folders plugin (#50rduv)
+* last queried folder as default folder (#5pe7y)
+* show all other folders for shortcuts (#2jh476)
+
+
+### fix
+
+* avoid flickering at page load (#42ggat)
+* classic editor does not load shortcode editor (#52kybh)
+* correctly enqueue dependencies (#52jf92)
+* import folders from correct level in Media Library Folders (#50rduv)
+* import taxonomy with special characters (#50rdtv)
+* shortcut info list has duplicates in some cases
+* typo (#5pe7y)
+
+
+
+
+
 ## 4.7.10 (2020-04-27)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.7 (2020-05-12)
+
+
+### build
+
+* cleanup temporary i18n files correctly
+
+
+### fix
+
+* console error 'Cannot read property hooks of undefined' (#2j57er)
+
+
+
+
+
 ## 1.0.6 (2020-04-16)
 
 

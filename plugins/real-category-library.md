@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.17 (2020-05-12)
+
+
+### build
+
+* cleanup temporary i18n files correctly
+
+
+### fix
+
+* avoid flickering at page load (#42ggat)
+* correctly enqueue dependencies (#52jf92)
+* effeciently make search results of categories droppable (#4wn81h)
+* links not clickable on touch devices (#4yhhyd)
+* use WooCommerce' core sorting mechanism instead of own (#5pp9b)
+
+
+
+
+
 ## 3.2.16 (2020-04-27)
 
 

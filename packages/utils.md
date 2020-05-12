@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.7 (2020-05-12)
+
+
+### build
+
+* cleanup temporary i18n files correctly
+
+
+### fix
+
+* correctly enqueue dependencies (#52jf92)
+* improvement speed up in admin dashboard (#52gj39)
+* install database tables after reactivate plugin (#52k7f1)
+* use correct assets class
+
+
+
+
+
 ## 1.0.6 (2020-04-27)
 
 
