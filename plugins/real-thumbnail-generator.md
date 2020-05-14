@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.1.3 (2020-05-14)
+
+
+### docs
+
+* link to free test drive in wordpress.org description
+
+
+
+
+
 ## 2.1.2 (2020-05-14)
 
 
