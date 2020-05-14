@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.8.1 (2020-05-14)
+
+
+### chore
+
+* add developer filter RML/Tree/Parsed
+
+
+### docs
+
+* add new compatibilities of Real Media Library to 3th-party plugins
+
+
+
+
+
 # 4.8.0 (2020-05-12)
 
 

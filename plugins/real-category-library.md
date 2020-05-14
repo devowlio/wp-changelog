@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.18 (2020-05-14)
+
+
+### docs
+
+* new wordpress.org assets #6jbg2r
+
+
+
+
+
 ## 3.2.17 (2020-05-12)
 
 
