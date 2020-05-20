@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.8.3 (2020-05-20)
+
+
+### fix
+
+* do not enqueue scripts and styles in customize preview
+
+
+
+
+
 ## 4.8.2 (2020-05-14)
 
 
