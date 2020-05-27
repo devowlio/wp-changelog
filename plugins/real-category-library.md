@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.20 (2020-05-27)
+
+
+### build
+
+* improve plugin build with webpack parallel builds
+
+
+### ci
+
+* use hot cache and node-gitlab-ci (#54r34g)
+
+
+### docs
+
+* redirect user documentation to new knowledgebase (#5etfa6)
+
+
+
+
+
 ## 3.2.19 (2020-05-20)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library

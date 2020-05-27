@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.8.4 (2020-05-27)
+
+
+### build
+
+* improve plugin build with webpack parallel builds
+
+
+### ci
+
+* use hot cache and node-gitlab-ci (#54r34g)
+
+
+### docs
+
+* redirect user documentation to new knowledgebase (#5etfa6)
+
+
+
+
+
 ## 4.8.3 (2020-05-20)
 
 
