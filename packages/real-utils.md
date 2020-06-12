@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.7 (2020-06-12)
+
+
+### chore
+
+* i18n update (#5ut991)
+* update translation pot file (CU-7pezg1)
+
+
+### ci
+
+* use hot cache and node-gitlab-ci (#54r34g)
+
+
+### fix
+
+* rename translation files of real-utils
+
+
+
+
+
 ## 1.0.6 (2020-05-20)
 
 

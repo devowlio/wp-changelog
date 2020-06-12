@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.8.5 (2020-06-12)
+
+
+### chore
+
+* i18n update (#5ut991)
+
+
+
+
+
 ## 4.8.4 (2020-05-27)
 
 
