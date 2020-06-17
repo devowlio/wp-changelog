@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.2.0 (2020-06-17)
+
+
+### chore
+
+* added two new filters for developers RTG/Regenerate/Path and RTG/Regenerate/AbsolutePath (#5yk9nj)
+* update plugin updater newsletter text (#6gfghm)
+
+
+### feat
+
+* allow to use ID as placeholder (#5yk9at)
+
+
+
+
+
 ## 2.1.6 (2020-06-12)
 
 

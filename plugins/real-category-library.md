@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.22 (2020-06-17)
+
+
+### chore
+
+* add RCL/Node/Visible filter so you can programmatically hide categories in the tree
+* update plugin updater newsletter text (#6gfghm)
+
+
+
+
+
 ## 3.2.21 (2020-06-12)
 
 

@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.8.6 (2020-06-17)
+
+
+### chore
+
+* update plugin updater newsletter text (#6gfghm)
+
+
+### docs
+
+* add YOOtheme to compatible themes
+
+
+### fix
+
+* compatibility with YOOTheme page builder (#5yjvm3)
+
+
+
+
+
 ## 4.8.5 (2020-06-12)
 
 
