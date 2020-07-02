@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.1 (2020-07-02)
+
+
+### chore
+
+* allow to define allowed licenses in root package.json (#68jvq7)
+* update dependencies (#3cj43t)
+* update to typescript 3.9.5
+
+
+
+
+
 # 1.1.0 (2020-06-17)
 
 

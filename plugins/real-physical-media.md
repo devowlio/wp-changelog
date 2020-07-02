@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.6 (2020-07-02)
+
+
+### chore
+
+* allow to define allowed licenses in root package.json (#68jvq7)
+* update dependencies (#3cj43t)
+
+
+### fix
+
+* avoid 'unnamed-file.pdf' folder names (#50nr7g)
+
+
+### test
+
+* cypress does not yet support window.fetch (#5whc2c)
+
+
+
+
+
 ## 1.1.5 (2020-06-17)
 
 

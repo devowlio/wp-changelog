@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.10 (2020-07-02)
+
+
+### chore
+
+* allow to define allowed licenses in root package.json (#68jvq7)
+* update dependencies (#3cj43t)
+
+
+
+
+
 ## 1.0.9 (2020-06-12)
 
 

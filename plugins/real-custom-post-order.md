@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.12 (2020-07-02)
+
+
+### chore
+
+* allow to define allowed licenses in root package.json (#68jvq7)
+* update dependencies (#3cj43t)
+
+
+### fix
+
+* IE11 polyfills (#5whc2c)
+
+
+### test
+
+* cypress does not yet support window.fetch (#5whc2c)
+
+
+
+
+
 ## 1.0.11 (2020-06-17)
 
 **Note:** Version bump only for package @devowl-wp/real-custom-post-order

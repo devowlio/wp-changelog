@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.2.23 (2020-07-02)
+
+
+### chore
+
+* allow to define allowed licenses in root package.json (#68jvq7)
+* update dependencies (#3cj43t)
+
+
+### fix
+
+* correct error message when creating a duplicate category
+
+
+### test
+
+* cypress does not yet support window.fetch (#5whc2c)
+
+
+
+
+
 ## 3.2.22 (2020-06-17)
 
 
