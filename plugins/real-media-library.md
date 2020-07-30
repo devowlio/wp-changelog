@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.9.0 (2020-07-30)
+
+
+### docs
+
+* optimize plugin description at wordpress.org
+* optimize plugin description at wordpress.org
+
+
+### feat
+
+* introduce dashboard with assistant (#68k9ny)
+* product instruction video for wordpress.org (#68c3qq)
+* show hint for Real Physical Media in attachment details (#6pmf7g)
+* translation into Portuguese (#6em9tr)
+* translation into Turkish #CU-6mm2jg
+* WordPress 5.5 compatibility (#6gqcm8)
+
+
+### fix
+
+* compatibility with Export Media Library plugin to download unorganized folder (#6pmb8t)
+* REST API notice in admin dashboard
+
+
+
+
+
 ## 4.8.7 (2020-07-02)
 
 

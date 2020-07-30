@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-07-30)
+
+
+### feat
+
+* introduce dashboard with assistant (#68k9ny)
+* WordPress 5.5 compatibility (#6gqcm8)
+
+
+### fix
+
+* backupbuddy compatibility (#6mmxmj)
+
+
+
+
+
 ## 1.1.1 (2020-07-02)
 
 

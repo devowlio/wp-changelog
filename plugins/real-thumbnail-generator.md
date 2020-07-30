@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.3.0 (2020-07-30)
+
+
+### feat
+
+* introduce dashboard with assistant (#68k9ny)
+* WordPress 5.5 compatibility (#6gqcm8)
+
+
+### fix
+
+* option to force new schema
+* REST API notice in admin dashboard
+* toggle to show only errors
+
+
+
+
+
 ## 2.2.1 (2020-07-02)
 
 

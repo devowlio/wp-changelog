@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-07-30)
+
+
+### feat
+
+* introduce dashboard with assistant (#68k9ny)
+* WordPress 5.5 compatibility (#6gqcm8)
+
+
+### fix
+
+* REST API notice in admin dashboard
+* state of active automatic queueing is not correctly displayed (#6unna6)
+
+
+
+
+
 ## 1.1.6 (2020-07-02)
 
 
