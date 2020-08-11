@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.1 (2020-08-11)
+
+
+### chore
+
+* backends for monorepo introduced
+
+
+### docs
+
+* add Porguese translation in wordpress.org description (#6em9tr)
+* optimize plugin description at wordpress.org (#76tqkz)
+
+
+### fix
+
+* compatibility with  Thrive Quiz Builder (#72kxjk)
+* remove cover image option in Thrive Quiz Builder because it throws errors (#72kxjk)
+
+
+
+
+
 # 4.9.0 (2020-07-30)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.1 (2020-08-11)
+
+
+### chore
+
+* backends for monorepo introduced
+
+
+### fix
+
+* move existing files button label misleading (#72py2j)
+
+
+
+
+
 # 1.2.0 (2020-07-30)
 
 
