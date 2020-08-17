@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.2 (2020-08-17)
+
+
+### ci
+
+* prefer dist in composer install
+
+
+### fix
+
+* button 'Set featured image' is not active after direct upload (#7am682)
+* media library crashes after direct upload in 'Upload files' view (#7aqy96)
+* media not found when order is applied to folder content (#7arkav)
+
+
+
+
+
 ## 4.9.1 (2020-08-11)
 
 

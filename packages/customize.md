@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-08-17)
+
+
+### ci
+
+* prefer dist in composer install
+
+
+### feat
+
+* add filter to modify customize value
+* allow controlled SameSectionAccordion
+* finished PolyLang compatibility (#4wqqym)
+* introduce rich editor in customize controls (#6wtzrg)
+
+
+
+
+
 ## 1.1.1 (2020-08-11)
 
 

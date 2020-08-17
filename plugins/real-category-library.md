@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.3.2 (2020-08-17)
+
+
+### ci
+
+* prefer dist in composer install
+
+
+
+
+
 ## 3.3.1 (2020-08-11)
 
 
