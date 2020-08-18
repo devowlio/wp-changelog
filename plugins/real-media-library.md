@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.3 (2020-08-18)
+
+
+### fix
+
+* upload breaks media library in Create Gallery modal (#7emj1y)
+* use configured default folder also for Add New page (#7ekm25)
+* use correct REST namespace when REST API is corrupt
+
+
+
+
+
 ## 4.9.2 (2020-08-17)
 
 
