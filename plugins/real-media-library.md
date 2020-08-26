@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.4 (2020-08-26)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### ci
+
+* install container volume with unique name (#7gmuaa)
+
+
+### perf
+
+* no longer read from slow INFORMATION_SCHEMA (#7cqdzj)
+* remove transients and introduce expire options for better performance (#7cqdzj)
+
+
+
+
+
 ## 4.9.3 (2020-08-18)
 
 

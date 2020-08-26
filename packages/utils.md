@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.3 (2020-08-26)
+
+
+### ci
+
+* install container volume with unique name (#7gmuaa)
+
+
+### perf
+
+* remove transients and introduce expire options for better performance (#7cqdzj)
+
+
+### test
+
+* fix ExpireOptionTest::testSet
+
+
+
+
+
 ## 1.4.2 (2020-08-17)
 
 
