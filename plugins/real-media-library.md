@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.5 (2020-08-31)
+
+
+### fix
+
+* change of software license from GPLv3 to GPLv2 due to Envato Market restrictions (#4ufx38)
+
+
+
+
+
 ## 4.9.4 (2020-08-26)
 
 

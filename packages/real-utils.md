@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.4 (2020-08-31)
+
+
+### fix
+
+* avoid duplicate pointers and fix RCM pointer position (#7pvy6a)
+* error on frontend page when Real Media Library is loaded (#7mw525)
+
+
+
+
+
 ## 1.2.3 (2020-08-26)
 
 

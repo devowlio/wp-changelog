@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.4 (2020-08-31)
+
+
+### fix
+
+* unnamed-file folder name for custom registered mime types (#7rmzbx)
+
+
+
+
+
 ## 1.2.3 (2020-08-26)
 
 

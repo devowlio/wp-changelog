@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.3 (2020-08-31)
+
+
+### fix
+
+* review 1 (#6utam1)
+
+
+
+
+
 ## 1.2.2 (2020-08-28)
 
 
