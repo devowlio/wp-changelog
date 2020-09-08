@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.5 (2020-09-08)
+
+
+### fix
+
+* remove List not Sortable hint and allow to sort all views (#7etufj)
+
+
+
+
+
 ## 1.1.4 (2020-08-31)
 
 **Note:** Version bump only for package @devowl-wp/real-custom-post-order

@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.14.0 (2020-09-08)
+
+
+### feat
+
+* introduce upselling dialog (#6pmcqx)
+
+
+### fix
+
+* import PRO features (#68tee7)
+* review 1 (#68tee7)
+* review 2 (#68tee7)
+* review 2 (#6utam1)
+* review 3 (#68tee7)
+* use correct links in PRO badges (#6pmcqx)
+
+
+
+
+
 # 0.13.0 (2020-08-31)
 
 
