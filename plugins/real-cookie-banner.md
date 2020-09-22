@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.16.0 (2020-09-22)
+
+
+### ci
+
+* correctly update RCB in license.devowl.io (#8crb19)
+
+
+### feat
+
+* allow muliple content blocker presets in cookie presets (#8cv69e)
+
+
+### fix
+
+* block specific functionality on try.devowl.io (#7ppr38)
+
+
+
+
+
 # 0.15.0 (2020-09-22)
 
 
