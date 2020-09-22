@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.3.0 (2020-09-22)
+
+
+### feat
+
+* CustomHTML control so you can e. g. show notices (#86wk0t)
+* introduce LanguageDependingOption (#84mnnc)
+
+
+### fix
+
+* import settings (#82rk4n)
+
+
+
+
+
 ## 1.2.3 (2020-08-31)
 
 

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.3.5 (2020-09-22)
+
+
+### fix
+
+* import settings (#82rk4n)
+* remove urldecode as it is no longer needed
+
+
+
+
+
 ## 3.3.4 (2020-08-31)
 
 

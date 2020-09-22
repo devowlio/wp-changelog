@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.3.5 (2020-09-22)
+
+
+### fix
+
+* import settings (#82rk4n)
+
+
+
+
+
 ## 2.3.4 (2020-08-31)
 
 

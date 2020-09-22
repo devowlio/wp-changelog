@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.5 (2020-09-22)
+
+
+### fix
+
+* allow more than three key features (#82uuh5)
+* allow to set image height for welcome page key features (#4rru6v)
+* import settings (#82rk4n)
+* review 1 (#86wk0t)
+* review 3 (#86wk0t)
+
+
+
+
+
 ## 1.2.4 (2020-08-31)
 
 

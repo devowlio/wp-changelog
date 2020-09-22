@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.4 (2020-09-22)
+
+
+### fix
+
+* do not use encodeURIComponent as it is supported by url-parse by default
+* import settings (#82rk4n)
+* truncate -lite and -pro from REST service (#82rgxu)
+
+
+
+
+
 ## 1.4.3 (2020-08-26)
 
 

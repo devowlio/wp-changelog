@@ -3,6 +3,67 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.15.0 (2020-09-22)
+
+
+### chore
+
+* fix bundle size
+* show notice when early-access phase expires (#84ufbx)
+
+
+### docs
+
+* add GIF screenshots to wordpress.org README (#4rru6v)
+
+
+### feat
+
+* add welcome-page GIFs (#4rru6v)
+* description, banner und icon for wp.org (#4ufx1u)
+* introduce LanguageDependingOption (#84mnnc)
+* key feature texts (#4rru6v)
+* notice if a opt-in script is not necessary (#86wk0t)
+* notice if user should remove old service injection (#86wk0t)
+* translations (#86wk0t)
+
+
+### fix
+
+* add default option values in WPML / PolyLang scenario (#82wb1q)
+* add default option values only for default content procedure (#82wb1q)
+* bug with empty response for blocker script (#86wk0t)
+* consent unique name error when editing a cookie
+* correctly add_option in admin_init hook (#82wb1q)
+* correctly add_option in non-REST hook (#82wb1q)
+* custom element blocker should also allow blocking scripts (#82w489)
+* do not track causes issues in firefox (#84uvth)
+* do only clear output buffer if needed (#82r05x)
+* expose consentAPI (#88t8tz)
+* import settings (#82rk4n)
+* latest changes for go live devowl.io (#7uwhgz)
+* localize redirection link for PRO version (#7ute3a)
+* move age notice below duration of cookie consent setting (#82ruqq)
+* remove urldecode as it is no longer needed
+* review 1 (#84uw95)
+* review 1 (#86wk0t)
+* review 2 (#86wk0t)
+* review 3 (#86wk0t)
+* review 4 (#86wk0t)
+* scroll container in first view of cookie banner
+* several bugs before go live on devowl.io
+* spelling mistake in welcome page (#82uwh1)
+* spelling mistakes
+* usage with PolyLang Free and WP REST API (#82v0t7)
+* use -pro slug (#82rgxu)
+* use correct slug in local environment for auto-updater
+* use language for non-WPML pages in cookie / blockers presets cache key (#86wk0t)
+* use placeholders in key features (#4rru6v)
+
+
+
+
+
 # 0.14.0 (2020-09-08)
 
 
