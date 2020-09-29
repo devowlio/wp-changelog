@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.2 (2020-09-29)
+
+
+### chore
+
+* introduce development package (#6utk9n)
+* move packages to development package (#6utk9n)
+* update dependencies (#3cj43t)
+* update package.json script for WordPress packages (#6utk9n)
+
+
+
+
+
 ## 1.1.1 (2020-09-22)
 
 

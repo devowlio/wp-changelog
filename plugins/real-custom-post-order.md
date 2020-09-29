@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.7 (2020-09-29)
+
+
+### build
+
+* backend pot files and JSON generation conflict-resistent (#6utk9n)
+
+
+### chore
+
+* introduce development package (#6utk9n)
+* move backend files to development package (#6utk9n)
+* move grunt to common package (#6utk9n)
+* move packages to development package (#6utk9n)
+* move some files to development package (#6utk9n)
+* remove grunt task aliases (#6utk9n)
+* update dependencies (#3cj43t)
+* update package.json scripts for each plugin (#6utk9n)
+
+
+
+
+
 ## 1.1.6 (2020-09-22)
 
 

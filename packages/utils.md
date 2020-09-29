@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.5 (2020-09-29)
+
+
+### build
+
+* backend pot files and JSON generation conflict-resistent (#6utk9n)
+
+
+### chore
+
+* introduce development package (#6utk9n)
+* move backend files to development package (#6utk9n)
+* move grunt to common package (#6utk9n)
+* move packages to development package
+* move packages to development package (#6utk9n)
+* move some files to development package (#6utk9n)
+* prepare package grunt scripts (#6utk9n)
+* update dependencies (#3cj43t)
+
+
+
+
+
 ## 1.4.4 (2020-09-22)
 
 

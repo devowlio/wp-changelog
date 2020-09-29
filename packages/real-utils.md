@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.6 (2020-09-29)
+
+
+### build
+
+* backend pot files and JSON generation conflict-resistent (#6utk9n)
+
+
+### chore
+
+* introduce development package (#6utk9n)
+* move backend files to development package (#6utk9n)
+* move grunt to common package (#6utk9n)
+* move packages to development package (#6utk9n)
+* move some files to development package (#6utk9n)
+* update dependencies (#3cj43t)
+* update package.json script for WordPress packages (#6utk9n)
+
+
+### fix
+
+* show pro advertisement only in 7 days interval in lite version (#8jthkf)
+
+
+
+
+
 ## 1.2.5 (2020-09-22)
 
 
