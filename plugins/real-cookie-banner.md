@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.18.0 (2020-10-08)
+
+
+### chore
+
+* **release :** version bump
+
+
+### feat
+
+* review two user tests, added VG WORT preset (#8wx249)
+
+
+### fix
+
+* google maps blocker preset now supports german URLs (#8ywmwe)
+
+
+
+
+
 # 0.17.0 (2020-09-29)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.7 (2020-10-08)
+
+
+### chore
+
+* **release :** version bump
+
+
+
+
+
 ## 1.2.6 (2020-09-29)
 
 
