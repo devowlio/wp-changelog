@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.9.10 (2020-10-09)
+
+
+### fix
+
+* jQuery v3 compatibility (#90wvre)
+
+
+
+
+
 ## 4.9.9 (2020-10-09)
 
 
