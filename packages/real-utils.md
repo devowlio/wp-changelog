@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2020-10-09)
+
+
+### feat
+
+* add cross-selling for Real Cookie Banner (#4rrt0d)
+
+
+
+
+
 # 1.3.0 (2020-10-08)
 
 
