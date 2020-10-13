@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.19.2 (2020-10-13)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### fix
+
+* download consent CSV (#90x0cv)
+* google maps blocker compatibility with WP Google Maps plugin (#94q9hu)
+
+
+### test
+
+* add smoke tests (#84ukve)
+
+
+
+
+
 ## 0.19.1 (2020-10-12)
 
 
