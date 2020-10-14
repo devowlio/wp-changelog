@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.20.0 (2020-10-14)
+
+
+### feat
+
+* allow to show cookie banner through admin bar in frontend again (#92w4h9)
+
+
+### fix
+
+* amazon widget cookie template (#94xfb1)
+* compatibility blocker with WP Google Maps PRO (#94q9hu)
+* compatibility of WordPress comments blocker with more themes (#94y5vh)
+* compatibility with WP Fastest Cache (#94xk58)
+* compatibility with WP Google Maps PRO (#94q9hu)
+* content blocker parent element height and scrolling issues (#94xp4g)
+* edit capabilities (#96r2xb)
+* use native mysql functions for exporting consents (#90x0cv)
+
+
+
+
+
 ## 0.19.2 (2020-10-13)
 
 
