@@ -3,6 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.21.0 (2020-10-16)
+
+
+### build
+
+* use node modules cache more aggressively in CI (#4akvz6)
+
+
+### chore
+
+* add Consent/Block/HTML developer filter
+* introduce Real Product Manager WordPress client package (#8cxk67)
+* remove unnecessery dependency
+* update PUC (#8cxk67)
+
+
+### feat
+
+* add checklist in config page header (#8cxk67)
+* announcements (#8cxk67)
+
+
+### fix
+
+* avoid issue with inifite loop when stats checklist item is unchecked
+* enable old auto updater instead of new one for EA (#8cxk67)
+* load blocker.js in footer (#96p6wf)
+* more pages in imprint and privacy policy dropdown
+* order pages by relevance in settings (imprint, privacy policy) (#96wu8n)
+* review 1 (#8cxk67)
+* review 2 (#8cxk67)
+* review 3 (#8cxk67)
+* review 4 (#8cxk67)
+* use correct product id and variant id
+* use inline style to reset parent container for content blocker due to theme conflicts (#94xp4g)
+* validate response in PUC (#8cxk67)
+
+
+
+
+
 # 0.20.0 (2020-10-14)
 
 

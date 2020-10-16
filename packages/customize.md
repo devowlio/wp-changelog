@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2020-10-16)
+
+
+### chore
+
+* rename folder name (#94xp4g)
+
+
+### feat
+
+* add checklist in config page header (#8cxk67)
+
+
+
+
+
 ## 1.3.2 (2020-10-08)
 
 

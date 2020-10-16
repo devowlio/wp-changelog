@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.3.9 (2020-10-16)
+
+
+### build
+
+* use node modules cache more aggressively in CI (#4akvz6)
+
+
+### chore
+
+* rename folder name (#94xp4g)
+
+
+
+
+
 ## 2.3.8 (2020-10-09)
 
 **Note:** Version bump only for package @devowl-wp/real-thumbnail-generator
