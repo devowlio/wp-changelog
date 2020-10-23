@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2020-10-23)
+
+
+### feat
+
+* add function getExternalContainerUrl to get backend URLs for frontend
+* route PATCH PaddleIncompleteOrder (#8ywfdu)
+
+
+### fix
+
+* correctly detect usage of _method parameter
+
+
+### refactor
+
+* use "import type" instead of "import"
+
+
+
+
+
 # 1.5.0 (2020-10-16)
 
 

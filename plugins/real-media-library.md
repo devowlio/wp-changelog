@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.10.0 (2020-10-23)
+
+
+### docs
+
+* mention in the description of wordpress.org all plugins for which import is supported (#9cptx6)
+
+
+### feat
+
+* route PATCH PaddleIncompleteOrder (#8ywfdu)
+
+
+### fix
+
+* automatically deactivate import button in settings when successfully (#92w0qk)
+* filebird v4 importer compatiblity (#92w0qk)
+
+
+### refactor
+
+* use "import type" instead of "import"
+
+
+
+
+
 ## 4.9.11 (2020-10-16)
 
 

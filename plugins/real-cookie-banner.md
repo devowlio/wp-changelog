@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.22.0 (2020-10-23)
+
+
+### feat
+
+* route PATCH PaddleIncompleteOrder (#8ywfdu)
+
+
+### fix
+
+* remove moment as it is not needed
+
+
+### refactor
+
+* use "import type" instead of "import"
+
+
+
+
+
 # 0.21.0 (2020-10-16)
 
 
