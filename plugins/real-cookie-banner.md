@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.23.0 (2020-11-03)
+
+
+### ci
+
+* release to new license server (#8wpcr1)
+
+
+### feat
+
+* new cookie and blocker presets (Paddle.com, Google Analytics 4, SoundCloud, #9gqu4j)
+
+
+### fix
+
+* make http cookie host field required
+* multiple creation of cookie templates in conflict with Consent Forwarding (#9mr2zh)
+
+
+
+
+
 # 0.22.0 (2020-10-23)
 
 

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.10.1 (2020-11-03)
+
+
+### ci
+
+* release to new license server (#8wpcr1)
+
+
+### fix
+
+* correct primary key usage (#9cpg5c)
+* import from FileBird is shown always (#9my9zj)
+
+
+
+
+
 # 4.10.0 (2020-10-23)
 
 

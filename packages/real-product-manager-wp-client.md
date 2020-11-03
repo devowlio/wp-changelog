@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.3.0 (2020-11-03)
+
+
+### feat
+
+* allow to disable announcements (#9jwehz)
+* translation (#8mrn5a)
+
+
+
+
+
 # 1.2.0 (2020-10-23)
 
 
