@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.23.1 (2020-11-05)
+
+
+### fix
+
+* loosy GTM container id validation
+
+
+
+
+
 # 0.23.0 (2020-11-03)
 
 
