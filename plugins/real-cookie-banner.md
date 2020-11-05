@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.23.2 (2020-11-05)
+
+
+### fix
+
+* avoid too large database query result set for consent list with revisions
+* reduce per page in list of consents
+
+
+### revert
+
+* avoid too large database query result set for consent list with revisions
+
+
+
+
+
 ## 0.23.1 (2020-11-05)
 
 
