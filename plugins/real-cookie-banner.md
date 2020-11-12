@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.23.4 (2020-11-12)
+
+
+### ci
+
+* make scripts of individual plugins available in review applications (#a2z8z1)
+
+
+### docs
+
+* add new cookie presets to README (#a6tzpk)
+
+
+### fix
+
+* better gutenberg embed compatibility (#a6yj1w)
+
+
+
+
+
 ## 0.23.3 (2020-11-09)
 
 

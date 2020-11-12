@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.10.2 (2020-11-12)
+
+
+### ci
+
+* make scripts of individual plugins available in review applications (#a2z8z1)
+
+
+
+
+
 ## 4.10.1 (2020-11-03)
 
 
