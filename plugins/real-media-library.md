@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.10.3 (2020-11-16)
+
+
+### chore
+
+* add developer action RML/Count/Reset (#aaybrt)
+
+
+### fix
+
+* reset count cache correctly when WPML is active (#aaybrt)
+
+
+
+
+
 ## 4.10.2 (2020-11-12)
 
 

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.23.5 (2020-11-16)
+
+
+### chore
+
+* deprecate preset filters cause it change with further presets (#a8x3j0)
+
+
+### fix
+
+* restructure preset filters for developers (#aazu0g)
+* use correct localized dates format (#9uwr18)
+
+
+
+
+
 ## 0.23.4 (2020-11-12)
 
 
