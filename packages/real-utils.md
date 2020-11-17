@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2020-11-17)
+
+
+### feat
+
+* enable cross selling ads for Real Cookie Banner (#4rruvq)
+* translation (#8mrn5a)
+
+
+### revert
+
+* translation comments to avoid semver of all plugins
+
+
+
+
+
 # 1.5.0 (2020-10-23)
 
 
