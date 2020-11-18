@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.1 (2020-11-18)
+
+
+### fix
+
+* do not show Real Cookie Banner in welcome page when already installed (#acypm6)
+* remove named cross selling pointers for Real Cookie Banner (#aew3kw)
+
+
+
+
+
 # 1.6.0 (2020-11-17)
 
 

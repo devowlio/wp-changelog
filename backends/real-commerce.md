@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.5 (2020-11-18)
+
+
+### fix
+
+* convert checkout language from ISO-3166 to ISO-639-1
+* on successful delivery of an subscription, wait up to 120s for checkout complete
+
+
+
+
+
 ## 1.0.4 (2020-11-17)
 
 

@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.3 (2020-11-18)
+
+
+### fix
+
+* add Divi maps block to Google Maps content blocker
+* banner not shown up in Happy Wedding Day theme
+* compatibility with Divi Maps block
+
+
+
+
+
 ## 1.0.2 (2020-11-17)
 
 
