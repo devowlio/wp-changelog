@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.4 (2020-11-19)
+
+
+### fix
+
+* deactivation feedback wrong REST route
+
+
+
+
+
 ## 1.3.3 (2020-11-18)
 
 

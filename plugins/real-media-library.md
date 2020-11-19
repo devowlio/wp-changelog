@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.10.6 (2020-11-19)
+
+
+### fix
+
+* lite version does not correctly allow 10 folders when deleting the last one (#aguw79)
+
+
+
+
+
 ## 4.10.5 (2020-11-18)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library
