@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2020-11-24)
+
+
+### feat
+
+* add hasInteractedWithFormOnce property of current blog to REST response (CU-agzcrp)
+
+
+### fix
+
+* license form was not localized to german (CU-agzcrp)
+* use no-store caching for WP REST API calls to avoid issues with browsers and CloudFlare (CU-agzcrp)
+
+
+
+
+
 ## 1.3.4 (2020-11-19)
 
 

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.4.4 (2020-11-24)
+
+
+### fix
+
+* compatibility with upcoming WordPress 5.6 (CU-amzjdz)
+* use no-store caching for WP REST API calls to avoid issues with browsers and CloudFlare (CU-agzcrp)
+
+
+
+
+
 ## 3.4.3 (2020-11-18)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library

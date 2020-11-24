@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.11.0 (2020-11-24)
+
+
+### feat
+
+* translation into Persian (CU-ajtpy8)
+
+
+### fix
+
+* compatibility with upcoming WordPress 5.6 (CU-amzjdz)
+* modify max index length for MySQL 5.6 databases so all database tables get created (CU-agzcrp)
+* update backend german translation
+* update german translation
+* use no-store caching for WP REST API calls to avoid issues with browsers and CloudFlare (CU-agzcrp)
+
+
+
+
+
 ## 4.10.6 (2020-11-19)
 
 

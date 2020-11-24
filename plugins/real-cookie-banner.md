@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2020-11-24)
+
+
+### docs
+
+* add MS Clarity in README
+
+
+### feat
+
+* new cookie preset Google Trends (CU-ajrchu)
+* new cookie preset Microsoft Clarity (#a8rv4x)
+
+
+### fix
+
+* allow document.write for unblocked scripts (#ajrchu)
+* compatibility with upcoming WordPress 5.6 (CU-amzjdz)
+* decode HTML entities in content blocker scripts, e.g. old Google Trends embed (#ajrchu)
+* ensure banner overlay is always a children of document.body (CU-agz6u3)
+* ensure banner overlay is always a children of document.body (CU-agz6u3)
+* modify Google Trends to work with older embed codes (CU-ajrchu)
+* modify max index length for MySQL 5.6 databases so all database tables get created (CU-agzcrp)
+* multiple content blockers should be inside a blocking wrapper (CU-ajrchu)
+* order with multiple content blocker scripts (#ajrchu)
+* typo in german translation (CU-agzcrp)
+* update Jetpack Site Stats and Comments content blocker (CU-amr3f1)
+* use no-store caching for WP REST API calls to avoid issues with browsers and CloudFlare (CU-agzcrp)
+* using multiple ads with Google Adsense (CU-ajrcn2)
+* wrong cookie count for first time usage in dashboard (CU-agzcrp)
+
+
+
+
+
 ## 1.0.4 (2020-11-19)
 
 **Note:** Version bump only for package @devowl-wp/real-cookie-banner

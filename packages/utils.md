@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.2 (2020-11-24)
+
+
+### fix
+
+* modify max index length for MySQL 5.6 databases so all database tables get created (CU-agzcrp)
+* use no-store caching for WP REST API calls to avoid issues with browsers and CloudFlare (CU-agzcrp)
+
+
+
+
+
 ## 1.6.1 (2020-11-12)
 
 
