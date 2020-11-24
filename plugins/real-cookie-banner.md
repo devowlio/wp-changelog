@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.1 (2020-11-24)
+
+
+### fix
+
+* compatibility with RankMath SEO
+* do not block content in beaver builder edit mode (CU-agzcrp)
+* do not output rcb calc time in json content type responses (Beaver Builder compatibility, CU-agzcrp)
+
+
+
+
+
 # 1.1.0 (2020-11-24)
 
 
