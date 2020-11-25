@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.2 (2020-11-25)
+
+
+### fix
+
+* code on page load should be execute inside head-tag (CU-aq01tu)
+* consent does not get saved in development websites (CU-aq0tbk)
+* wrong link to consent forwarding in german WordPress installation
+
+
+
+
+
 ## 1.1.1 (2020-11-24)
 
 
