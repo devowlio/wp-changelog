@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.1 (2020-11-26)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### fix
+
+* show link to account page when max license usage reached (CU-aq0g1g)
+
+
+
+
+
 # 1.4.0 (2020-11-24)
 
 

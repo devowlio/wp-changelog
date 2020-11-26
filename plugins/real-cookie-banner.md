@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.3 (2020-11-26)
+
+
+### fix
+
+* compatibility with WebFontLoader for Google Fonts and Adobe Typekit (CU-aq01tu)
+* never block codeOnPageLoad scripts of cookies (introduce consent-skip-blocker HTML attribute, CU-aq01tu)
+
+
+
+
+
 ## 1.1.2 (2020-11-25)
 
 
