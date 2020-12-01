@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.11.1 (2020-12-01)
+
+
+### chore
+
+* update dependencies (CU-3cj43t)
+* update major dependencies (CU-3cj43t)
+* update to composer v2 (CU-4akvjg)
+* **release :** publish [ci skip]
+
+
+### refactor
+
+* enforce explicit-member-accessibility (CU-a6w5bv)
+
+
+
+
+
 # 4.11.0 (2020-11-24)
 
 

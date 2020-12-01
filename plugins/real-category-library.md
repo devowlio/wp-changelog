@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.4.5 (2020-12-01)
+
+
+### chore
+
+* update dependencies (CU-3cj43t)
+* update major dependencies (CU-3cj43t)
+* update to composer v2 (CU-4akvjg)
+* update to core-js@3 (CU-3cj43t)
+* **release :** publish [ci skip]
+
+
+### refactor
+
+* enforce explicit-member-accessibility (CU-a6w5bv)
+
+
+
+
+
 ## 3.4.4 (2020-11-24)
 
 

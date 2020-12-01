@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.1 (2020-12-01)
+
+
+### chore
+
+* update dependencies (CU-3cj43t)
+* update to composer v2 (CU-4akvjg)
+* update to core-js@3 (CU-3cj43t)
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+
+
+
 # 1.5.0 (2020-10-23)
 
 

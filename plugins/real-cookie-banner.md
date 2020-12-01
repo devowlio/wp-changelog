@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-12-01)
+
+
+### chore
+
+* translate new presets
+* update dependencies (CU-3cj43t)
+* update major dependencies (CU-3cj43t)
+* update to composer v2 (CU-4akvjg)
+* update to core-js@3 (CU-3cj43t)
+* update to TypeScript 4.1 (CU-3cj43t)
+
+
+### feat
+
+* new cookie preset Zoho Forms and Zoho Bookings (CU-awy9wa)
+
+
+### refactor
+
+* enforce explicit-member-accessibility (CU-a6w5bv)
+
+
+
+
+
 ## 1.1.3 (2020-11-26)
 
 
