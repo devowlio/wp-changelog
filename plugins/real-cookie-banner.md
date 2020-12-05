@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.1 (2020-12-05)
+
+
+### fix
+
+* sometimes the privacy and imprint link are not correctly redirected (CU-b2x8wp)
+
+
+
+
+
 # 1.2.0 (2020-12-01)
 
 
