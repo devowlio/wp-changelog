@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.6 (2020-12-09)
+
+
+### chore
+
+* update to cypress v6 (CU-7gmaxc)
+* update to webpack v5 (CU-4akvz6)
+* updates typings and min. Node.js and Yarn version (CU-9rq9c7)
+* **release :** publish [ci skip]
+
+
+
+
+
 ## 1.3.5 (2020-12-01)
 
 

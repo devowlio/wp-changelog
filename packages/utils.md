@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2020-12-09)
+
+
+### chore
+
+* update to webpack v5 (CU-4akvz6)
+* updates typings and min. Node.js and Yarn version (CU-9rq9c7)
+* **release :** publish [ci skip]
+
+
+### feat
+
+* allow uploading files via commonRequest (CU-80q24e)
+* introduce code splitting functionality to plugins (CU-b10ahe)
+
+
+### fix
+
+* anonymous localized script settings to avoid incompatibility with WP Rocket lazy execution (CU-b4rp51)
+
+
+
+
+
 ## 1.6.3 (2020-12-01)
 
 

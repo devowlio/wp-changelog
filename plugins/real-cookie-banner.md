@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.2 (2020-12-09)
+
+
+### build
+
+* use correct pro folders in build folder (CU-5ymbqn)
+
+
+### chore
+
+* update to cypress v6 (CU-7gmaxc)
+* update to webpack v5 (CU-4akvz6)
+* updates typings and min. Node.js and Yarn version (CU-9rq9c7)
+
+
+### fix
+
+* anonymous localized script settings to avoid incompatibility with WP Rocket lazy execution (CU-b4rp51)
+* automatically deactivate lite version when installing pro version (CU-5ymbqn)
+* compatibility with WP External Links (CU-b8w6yv)
+* validate cookie host according to RFC 1123 instead of RFC 952 (CU-b31nf0)
+
+
+### test
+
+* smoke tests for Real Cookie Banner PRO
+
+
+
+
+
 ## 1.2.1 (2020-12-05)
 
 

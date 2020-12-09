@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.1 (2020-12-09)
+
+
+### chore
+
+* update to cypress v6 (CU-7gmaxc)
+* updates typings and min. Node.js and Yarn version (CU-9rq9c7)
+
+
+### fix
+
+* typing error from Node 14 upgrade (CU-9rq9c7)
+
+
+### test
+
+* fix viewport height
+* run smoke tests also on wordpress branch (CU-7gmaxc)
+
+
+
+
+
 # 1.2.0 (2020-10-23)
 
 
