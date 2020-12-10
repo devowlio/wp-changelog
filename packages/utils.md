@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.8.1 (2020-12-10)
+
+
+### chore
+
+* export sprintf as i18n method
+
+
+
+
+
 # 1.8.0 (2020-12-09)
 
 

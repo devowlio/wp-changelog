@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.4.8 (2020-12-10)
+
+**Note:** Version bump only for package @devowl-wp/real-category-library
+
+
+
+
+
 ## 3.4.7 (2020-12-09)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library
