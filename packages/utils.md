@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.9.0 (2020-12-15)
+
+
+### feat
+
+* introduce code splitting with chunked translations (CU-b10ahe)
+
+
+
+
+
 ## 1.8.1 (2020-12-10)
 
 

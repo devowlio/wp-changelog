@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.5.0 (2020-12-15)
+
+
+### feat
+
+* add toolbar button to view and edit category details (CU-bazvh7)
+
+
+### fix
+
+* compatibility with WP File Download (CU-bazty6)
+
+
+
+
+
 ## 3.4.8 (2020-12-10)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library

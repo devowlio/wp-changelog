@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.9 (2020-12-15)
+
+**Note:** Version bump only for package @devowl-wp/real-physical-media
+
+
+
+
+
 ## 1.3.8 (2020-12-10)
 
 **Note:** Version bump only for package @devowl-wp/real-physical-media

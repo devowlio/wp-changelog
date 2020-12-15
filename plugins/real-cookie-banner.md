@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.3.0 (2020-12-15)
+
+
+### chore
+
+* introduce custom powered-by link in PRO version (CU-b8wzqu)
+
+
+### feat
+
+* introduce rcb-consent-print-uuid shortcode (CU-bateay)
+* new cookie and content blocker preset AddThis (CU-beva7q)
+* new cookie and content blocker preset AddToAny (CU-beva7q)
+* new cookie and content blocker preset Anchor.fm (CU-beva7q)
+* new cookie and content blocker preset Apple Music (CU-beva7q)
+* new cookie and content blocker preset Bing Maps (CU-beva7q)
+* new cookie and content blocker preset reddit (CU-beva7q)
+* new cookie and content blocker preset Spotify (CU-beva7q)
+* new cookie and content blocker preset TikTok (CU-beva7q)
+* new cookie and content blocker preset WordPress Emojis (CU-beva7q)
+
+
+### fix
+
+* block sandbox attribute for iframes (CU-beva7q)
+* compatibility with WP External Links icon in banner and blocker footer (CU-bew81p)
+* dashboard in lite version scrolls automatically to bottom (CU-bez8qn)
+* list of consents does not expand if not initially saved settings once before
+* memory error while reading the consent list (CU-9yzhrr)
+* show ePrivacy and age notice even without description in visual content blocker (CU-beurgy)
+
+
+### refactor
+
+* introduce code splitting to reduce config page JavaScript assets (CU-b10ahe)
+
+
+
+
+
 ## 1.2.4 (2020-12-10)
 
 **Note:** Version bump only for package @devowl-wp/real-cookie-banner
