@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.9.1 (2021-01-11)
+
+
+### build
+
+* reduce javascript bundle size by using babel runtime correctly with webpack / babel-loader
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### fix
+
+* caching issues with new versions in settings page
+* compatibility with combine JS in newest WP Rocket update (CU-c11w2c)
+* generate dependency map for translations
+* wrong language for duplicated cookie when using PolyLang default language in admin dashboard
+
+
+
+
+
 # 1.9.0 (2020-12-15)
 
 

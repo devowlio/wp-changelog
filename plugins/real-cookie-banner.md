@@ -3,6 +3,74 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2021-01-11)
+
+
+### build
+
+* reduce javascript bundle size by using babel runtime correctly with webpack / babel-loader
+
+
+### chore
+
+* translate new cookie and blocker presets and register
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+### ci
+
+* automatically activate PRO version in review application (CU-hatpe6)
+
+
+### docs
+
+* update README (CU-bevae9)
+
+
+### feat
+
+* new cookie and content blocker preset ActiveCampaign forms and site tracking (CU-bh04kz)
+* new cookie and content blocker preset Discord (CU-c6vmgg)
+* new cookie and content blocker preset MyFonts.net (CU-cawhga)
+* new cookie and content blocker preset Proven Expert (Widget) (CU-cawhfp)
+* new cookie preset Elementor (CU-cawhdk)
+* new cookie preset Mouseflow (CU-cawj3n)
+* new cookie preset Userlike (CU-cawhr3)
+
+
+### fix
+
+* apply gzip compression on the fly to the anti-ad-block system (CU-bx0am1)
+* compatibility with All In One WP Security & Firewall (CU-bh08zp)
+* compatibility with Facebook for WooCommerce plugin (CU-bwwwrt)
+* compatibility with Meks Easy Photo Feed Widget Instagram feed (CU-bx0wd7)
+* compatibility with Oxygen page builder
+* compatibility with video and audio shortcode (CU-bt21kd)
+* compatibility with youtu.be domain in YouTube content blocker preset (CU-bt21hp)
+* compatiblity with WP Rocket lazy loading inline scripts (CU-bwwwrt)
+* compatiblity with WP Rocket lazy loading YouTube videos (CU-byw6ua)
+* content blocker for video and audio tags in some edge cases
+* cookie preset selector busy indicator (CU-a8x3j0)
+* generate dependency map for translations
+* jquery issue when not in use (jQuery is now optional for RCB)
+* use correct stubs for PolyLang
+
+
+### perf
+
+* preset PHP classes are only loaded when needed (CU-a8x3j0)
+* speed up caching of presets (CU-a8x3j0)
+
+
+### style
+
+* input text fields in config page (CU-a8x3j0)
+
+
+
+
+
 # 1.3.0 (2020-12-15)
 
 

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.5.1 (2021-01-11)
+
+
+### build
+
+* reduce javascript bundle size by using babel runtime correctly with webpack / babel-loader
+
+
+### chore
+
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+
+
+
 # 3.5.0 (2020-12-15)
 
 

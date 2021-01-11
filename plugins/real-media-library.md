@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.11.6 (2021-01-11)
+
+
+### chore
+
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+
+
+
 ## 4.11.5 (2020-12-15)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library
