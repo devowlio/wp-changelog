@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.5.2 (2021-01-18)
+
+
+### fix
+
+* compatibility with JetEngine (CU-c6wp6e)
+
+
+
+
+
 ## 3.5.1 (2021-01-11)
 
 

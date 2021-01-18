@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.11 (2021-01-18)
+
+
+### fix
+
+* table header breaks when a column is hidden (CU-cpv9wm)
+
+
+
+
+
 ## 1.2.10 (2021-01-11)
 
 

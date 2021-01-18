@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2021-01-18)
+
+
+### feat
+
+* make texts in cookie banner more customizable (CU-cjy9gd)
+
+
+
+
+
 ## 1.5.3 (2021-01-11)
 
 

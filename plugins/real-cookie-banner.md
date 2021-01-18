@@ -3,6 +3,62 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.5.0 (2021-01-18)
+
+
+### chore
+
+* introduce new developer filters RCB/Blocker/KeepAttributes and RCB/Blocker/VisualParent (CU-cn0wvd)
+* new Consent API function consentApi.consent() and consentApi.consentAll() to wait for consent
+* presets can no be extended by a parent class definition
+* register new cookie and content blockers and update README (CU-cewwda)
+* translate new presets, update README
+
+
+### feat
+
+* new content blocker preset Google Analytics (CU-cewwda)
+* new cookie and content blocker preset Analytify (CU-cewwda)
+* new cookie and content blocker preset ExactMetrics (CU-cewwda)
+* new cookie and content blocker preset Facebook For WooCommerce (CU-cewwda)
+* new cookie and content blocker preset GA Google Analytics (CU-cewwda)
+* new cookie and content blocker preset Mailchimp for WooCommerce (CU-cn234z)
+* new cookie and content blocker preset Matomo WordPress plugin (CU-ch3etd)
+* new cookie and content blocker preset MonsterInsights (CU-cewwda)
+* new cookie and content blocker preset WooCommerce Google Analytics Integration (CU-cewwda)
+* new cookie preset Lucky Orange (CU-ccwj8v)
+* new cookie preset WooCommerce Stripe (CU-cn232u)
+* recommend MonsterInsights content blocker in Google Analytics cookie preset (CU-cewwda)
+
+
+### fix
+
+* automatically invalidate preset cache after any plugin activated / deactivated
+* compatibility with FloThemes embed codes and blocks (CU-cn0wvd)
+* do not show footer links when label is empty (CU-cjwyqw)
+* do not show hidden or disabled content blocker presets in cookie form
+* extended presets can disable technical handling through compatible plugin (CU-cewwda)
+* footer not shown when imprint empty in PRO version
+* include description in preset search index
+* overcompressed logo
+* review 1 (CU-cewwda)
+
+
+### refactor
+
+* presets gets more and more complex, let's simplify with a middleware system
+
+
+### style
+
+* gray out disabled cookie and content blocker presets
+* gray out plugin-specific cookie and content blocker presets
+* show a tooltip when a preset is currently disabled
+
+
+
+
+
 ## 1.4.2 (2021-01-11)
 
 
