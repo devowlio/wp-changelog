@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.12.0 (2021-01-20)
+
+
+### chore
+
+* add new developer function wp_rml_create_p
+
+
+### feat
+
+* allow to upload complete folder structures (CU-vbf0)
+
+
+### fix
+
+* used folder icon in advanced upload progress
+
+
+
+
+
 ## 4.11.6 (2021-01-11)
 
 
