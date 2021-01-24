@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.5 (2021-01-24)
+
+
+### fix
+
+* avoid duplicate feedback modals if other plugins of us are active (e.g. RML, CU-cx0ynw)
+
+
+
+
+
 ## 1.4.4 (2021-01-11)
 
 

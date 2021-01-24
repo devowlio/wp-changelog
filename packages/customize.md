@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-01-24)
+
+
+### feat
+
+* allow to make customizer fields resettable with a button (CU-crwyqn)
+
+
+
+
+
 # 1.6.0 (2021-01-18)
 
 

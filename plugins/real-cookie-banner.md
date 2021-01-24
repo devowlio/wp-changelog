@@ -3,6 +3,55 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2021-01-24)
+
+
+### chore
+
+* register new cookie and content blockers and update README (CU-cwx3bn)
+
+
+### feat
+
+* allow to make customizer fields resettable with a button (CU-crwyqn)
+* new banner preset in customizer 'Clean Dialog'
+* new content blocker preset CleverReach with Google Recaptcha (CU-cryuv0)
+* new cookie and content blocker preset Custom Twitter Feeds (Tweets Widget) (CU-cwx3bn)
+* new cookie and content blocker preset Feeds for YouTube (CU-cwx3bn)
+* new cookie and content blocker preset FontAwesome (CU-cx067u)
+* new cookie and content blocker preset Smash Balloon Social Post Feed (CU-cwx3bn)
+* preset extends middleware now supports extendsStart and extendsEnd for array properties (CU-cwx3bn)
+
+
+### fix
+
+* allow all URLs for affiliates in PRO version (CU-cyyh2z)
+* compatibility with CloudFlare caches; nonce is no longer needed as we have rate limit in public APIs (CU-cwvke2)
+* compatibility with Impreza lazy loading grid (CU-94w719)
+* improve UX when creating Content Blocker and open the Add-Cookie form in a modal instead of new tab (CU-cz12vj)
+* review 1 (CU-cz12vj)
+* wrong character encoding for VG Wort preset
+
+
+### refactor
+
+* remove unused classes and methods
+
+
+### revert
+
+* always show recommened cookies in content blocker select (CU-cwx3bn)
+
+
+### style
+
+* do not break line in cookie preset selector description
+* use flexbox instead of usual containers for banner buttons (CU-cv0ff2)
+
+
+
+
+
 # 1.5.0 (2021-01-18)
 
 

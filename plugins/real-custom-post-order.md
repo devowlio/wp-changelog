@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.12 (2021-01-24)
+
+**Note:** Version bump only for package @devowl-wp/real-custom-post-order
+
+
+
+
+
 ## 1.2.11 (2021-01-18)
 
 

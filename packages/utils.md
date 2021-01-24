@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.9.2 (2021-01-24)
+
+
+### fix
+
+* make restNonce option optional for public APIs (CU-cwvke2)
+
+
+
+
+
 ## 1.9.1 (2021-01-11)
 
 
