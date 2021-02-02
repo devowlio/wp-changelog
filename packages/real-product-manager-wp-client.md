@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.5.0 (2021-02-02)
+
+
+### feat
+
+* introduce new checkbox to enable automatic minor and patch updates (CU-dcyf6c)
+
+
+
+
+
 ## 1.4.5 (2021-01-24)
 
 

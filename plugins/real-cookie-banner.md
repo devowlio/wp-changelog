@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-02-02)
+
+
+### chore
+
+* allow to edit custom post types and taxnomies to be edited via native UI for debug purposes
+* remove limit for cookies and content blockers (CU-d6z2u6)
+
+
+### docs
+
+* improved product description for wordpress.org (#d6z2u6)
+
+
+### feat
+
+* new cookie and content blocker preset MailerLite (CU-d10rw9)
+* new cookie preset CleanTalk Spam Protection (CU-d93t70)
+* new cookie preset WordFence (CU-dcyv72)
+
+
+### fix
+
+* allow to block inline styles by URL (CU-d10rw9)
+* compatibility with Custom Facebook Feed Pro v3.18 (CU-cwx3bn)
+* compatibility with FooBox lightbox (CU-dczh1k)
+* compatibility with TranslatePress to avoid flickering (CU-dd4a3q)
+* compatibility with Uncode Google Maps block (CU-d12m5q)
+* content blocker should also execute window 'load' event after unblock (CU-d12m5q)
+* do correctly find duplicate content blockers and avoid them (CU-d10rw9)
+* do not block twice for custom element blockers (CU-d10rw9)
+* translated page in footer is not shown in PolyLang correctly (CU-d6wumw)
+
+
+
+
+
 # 1.6.0 (2021-01-24)
 
 

@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.12.2 (2021-02-02)
+
+
+### chore
+
+* move default startup folder functionality to PRO features (CU-d6z2u6)
+* removed folder limit of 10 folders, new PRO features (CU-d6z2u6)
+
+
+### docs
+
+* improved product description for wordpress.org (#d6z2u6)
+
+
+### fix
+
+* compatibility with Media Library Assistant (CU-d0w8f7)
+
+
+
+
+
 ## 4.12.1 (2021-01-24)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library

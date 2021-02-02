@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.5.4 (2021-02-02)
+
+
+### fix
+
+* compatibility with Elementor template library when clicking Add New button (CU-d13prj)
+* compatibility with FooBox lightbox (CU-dczh1k)
+
+
+
+
+
 ## 3.5.3 (2021-01-24)
 
 

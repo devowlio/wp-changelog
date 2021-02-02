@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2021-02-02)
+
+
+### feat
+
+* introduce translations for output buffer plugins (TranslatePress, CU-dd4a3q)
+
+
+
+
+
 ## 1.3.5 (2021-01-24)
 
 
