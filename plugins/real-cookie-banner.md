@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.3 (2021-02-05)
+
+
+### docs
+
+* update README to be compatible with Requires at least (CU-df2wb4)
+
+
+### fix
+
+* in some edge cases the wordpress autoupdater does not fire the wp action and dynamic javascript assets are not generated
+
+
+
+
+
 ## 1.7.2 (2021-02-05)
 
 
