@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.12.3 (2021-02-05)
+
+
+### fix
+
+* button 'Set featured image' is not active after direct upload after new PRO features were introduced (#7am682)
+
+
+
+
+
 ## 4.12.2 (2021-02-02)
 
 
