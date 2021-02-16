@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.14 (2021-02-16)
+
+
+### docs
+
+* update README to be compatible with Requires at least (CU-df2wb4)
+
+
+### fix
+
+* compatibility with RankMath redirections
+
+
+
+
+
 ## 1.3.13 (2021-02-02)
 
 

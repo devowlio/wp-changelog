@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.5.0 (2021-02-16)
+
+
+### chore
+
+* improve UX after user tests (CU-devznm)
+
+
+### docs
+
+* update README to be compatible with Requires at least (CU-df2wb4)
+
+
+### feat
+
+* improve English translation (#devznm)
+* improve English translation (#devznm)
+* translation into German (#devznm)
+
+
+### fix
+
+* verify settings with error messages (CU-devznm)
+* when uploading a file in Add New page a notice was thrown (CU-devznm)
+
+
+
+
+
 ## 2.4.12 (2021-02-02)
 
 

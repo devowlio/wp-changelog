@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.8.0 (2021-02-16)
+
+
+### chore
+
+* register and translate new cookie and content blocker presets
+* show notice for Quform cause content blocker is not necessery (CU-cawja6)
+
+
+### feat
+
+* allow to apply content blockers to JSON output of e.g. REST services
+* improve English translation (#devznm)
+* new cookie and content blocker preset Issuu (CU-e14yht)
+* new cookie and content blocker preset Pinterest Tag (CU-eb3wu9)
+* new cookie and content blocker preset Quform (CU-cawja6)
+* new cookie preset Klarna Checkout for WooCommerce (CU-e2z7u7)
+* new cookie preset TranslatePress (CU-e14nf6)
+
+
+### fix
+
+* compatibility Instagram blocker with WoodMart theme
+* compatibility with Elementor inline styles
+* compatibility with TranslatePress (CU-cew7v9)
+* do not block links without class and external URLs
+* do not output calculated time for blocker when not requested; compatibility with Themebeez Toolkit
+* show correct tooltip when Google / Matomo Tag Manager template can not be created (CU-e6xyc5)
+
+
+
+
+
 ## 1.7.3 (2021-02-05)
 
 

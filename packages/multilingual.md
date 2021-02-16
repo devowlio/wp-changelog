@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.5.0 (2021-02-16)
+
+
+### feat
+
+* introduce new function to iterate all language contexts
+* introduce new Output Buffer plugins and TranslatePress compatibility (CU-cew7v9)
+
+
+### fix
+
+* add TranslatePress stub to translate a complete page
+* compatibility with TranslatePress (CU-cew7v9)
+* compatibility with WPML and PolyLang; defaults are not correctly created on installation (CU-e50f0d)
+
+
+### perf
+
+* do not translate JSON with TranslatePress, use single HTML string
+
+
+
+
+
 # 1.4.0 (2021-02-02)
 
 

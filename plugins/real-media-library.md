@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.12.4 (2021-02-16)
+
+
+### docs
+
+* correctly generated JSDoc for Real Media Library (CU-e8zuj3)
+* update README to be compatible with Requires at least (CU-df2wb4)
+
+
+### fix
+
+* compatiblity with Beaver Builder and responsive settings for a block e.g. mobile
+
+
+
+
+
 ## 4.12.3 (2021-02-05)
 
 
