@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.13.0 (2021-02-24)
+
+
+### chore
+
+* rename go-links to new syntax (#en621h)
+
+
+### docs
+
+* rename test drive to sanbox (#ef26y8)
+
+
+### feat
+
+* translation intro Croatian (#eq11w3)
+
+
+### fix
+
+* allow to refresh modal attachments browser e.g. Divi page builder does not do this automatically
+* newly uploaded files are not visible after reopening the folder in Free version (CU-epyvt7)
+* reset folder correctly when reopening a modal dialog
+
+
+
+
+
 ## 4.12.4 (2021-02-16)
 
 

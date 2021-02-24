@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.2 (2021-02-24)
+
+
+### fix
+
+* automatically recreate random assets on plugin update
+* correctly serve as HTTPS if requested over HTTPS
+* in some edge cases the wordpress autoupdater does not fire the wp action and dynamic javascript assets are not generated
+
+
+
+
+
 ## 0.1.1 (2021-02-05)
 
 

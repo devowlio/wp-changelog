@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.5.1 (2021-02-24)
+
+
+### chore
+
+* rename go-links to new syntax (#en621h)
+
+
+### docs
+
+* rename test drive to sanbox (#ef26y8)
+
+
+### fix
+
+* compatibility with GS Only PDF Preview plugin (CU-epzbcn)
+
+
+
+
+
 # 2.5.0 (2021-02-16)
 
 

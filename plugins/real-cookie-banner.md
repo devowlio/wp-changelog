@@ -3,6 +3,43 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.9.0 (2021-02-24)
+
+
+### chore
+
+* drop moment bundle where not needed (CU-e94pnh)
+* introduce new JavaScript API window.consentApi.consentSync
+
+
+### docs
+
+* rename test drive to sanbox (#ef26y8)
+
+
+### feat
+
+* new cookie banner preset 'Ronny's Dialog'
+* new customizer option in Body > Accept all Button > Align side by side (CU-cv0d8g)
+
+
+### fix
+
+* compatibility with X Theme and Cornerstone
+* content blocker containers may also have an empty style
+* content blocker for JetPack Site Stats too aggressive when using together with wordpress.com
+* content blocking for Quform in some cases to aggressive (#ejxq3b)
+* do not annonymously server when SCRIPT_DEBUG is active
+* do not apply style to parent containers if no style was previously present
+* do not show cookie banner when editing in Divi and Beaver Builder page builder
+* illegal mix of collations (CU-ef1dtp)
+* in some cases the original iframe was blocked, but not completely hidden
+* when a profile deactivate syntax highlighting, the cookie form did not work (CU-en3mxa)
+
+
+
+
+
 # 1.8.0 (2021-02-16)
 
 

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.1 (2021-02-24)
+
+
+### chore
+
+* introduce empty class for Weglot
+
+
+### fix
+
+* do not translate gettext texts with TranslatePress cause it adds some weired characters (CU-egxxjh)
+* strip gettext texts for TranslatePress (CU-egxxjh)
+
+
+
+
+
 # 1.5.0 (2021-02-16)
 
 

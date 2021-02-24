@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.3 (2021-02-24)
+
+
+### chore
+
+* drop moment bundle where not needed (CU-e94pnh)
+
+
+
+
+
 ## 1.5.2 (2021-02-16)
 
 

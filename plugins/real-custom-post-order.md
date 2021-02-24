@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.13 (2021-02-24)
+
+
+### chore
+
+* rename go-links to new syntax (#en621h)
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+### docs
+
+* rename test drive to sanbox (#ef26y8)
+* update README to be compatible with Requires at least (CU-df2wb4)
+
+
+
+
+
 ## 1.2.12 (2021-01-24)
 
 **Note:** Version bump only for package @devowl-wp/real-custom-post-order
