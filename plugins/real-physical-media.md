@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.16 (2021-03-02)
+
+
+### fix
+
+* respect language of newsletter subscriber to assign to correct newsletter (CU-aar8y9)
+
+
+
+
+
 ## 1.3.15 (2021-02-24)
 
 

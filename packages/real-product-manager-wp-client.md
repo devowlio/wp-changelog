@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.4 (2021-03-02)
+
+
+### chore
+
+* highlight "Skip & Deactivate" button in feedback form when deactivating plugin (CU-ewzae8)
+
+
+### fix
+
+* filter duplicates in deactivation feedback and show error message (CU-ewzae8)
+* filter spam deactivation feedback by length, word count and email address MX record (CU-ewzae8)
+* use site url instead of home url for activating a license (CU-f134wh)
+* use whitespace and refactor coding (review 1, CU-ewzae8)
+
+
+
+
+
 ## 1.5.3 (2021-02-24)
 
 
