@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.1 (2021-03-02)
+
+
+### fix
+
+* calculate permalink at runtime instead of storing it in index record (CU-eyzgf0)
+
+
+
+
+
 # 1.4.0 (2021-02-16)
 
 
