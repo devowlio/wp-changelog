@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.10.0 (2021-03-02)
+
+
+### chore
+
+* update german text for privacy settings history dialog title (CU-ev2070)
+
+
+### feat
+
+* allow to customize more texts for content blocker (CU-ev2070)
+* new cookie preset (CU-ev6jyb)
+
+
+### fix
+
+* allow HTML formatting in content blocker accept info text (CU-ev2070)
+* compatibility with Thrive Architect embeds
+* compatibility with Thrive Archtitect Custom HTML block
+* do not allow cookie duration greater than 365 (CU-cpyc46)
+* do not override position:relative for content blocker
+
+
+
+
+
 # 1.9.0 (2021-02-24)
 
 
