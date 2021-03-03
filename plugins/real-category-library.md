@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.5.7 (2021-03-03)
+
+
+### fix
+
+* posts are no longer droppable (hotfix, CU-f4yh7t)
+
+
+
+
+
 ## 3.5.6 (2021-03-02)
 
 
