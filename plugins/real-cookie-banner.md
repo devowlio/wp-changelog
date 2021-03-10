@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.11.0 (2021-03-10)
+
+
+### chore
+
+* hide some notices on try.devowl.io (CU-f53trz)
+
+
+### feat
+
+* added ability to auto play videos if they got unblocked (Divi Page Builder, CU-f51p51)
+* added ability to auto play videos if they got unblocked (JetElements for Elementor, CU-f51p51)
+* autoplay YoutTube and Vimeo videos after unblocking through content blocker (CU-f558r1)
+
+
+### fix
+
+* compatibility with Combine JavaScript in WP Rocket (CU-f35k4j)
+* compatibility with Divi videos (e.g. YouTube) when using an overlay
+* compatibility with JetElements for Elementor Video Player (CU-f51p51)
+* compatibility with lazy loaded scripts e.g. WP Rocket when they are present in the configuration list (CU-f35k4j)
+* in some cases the blocked content was still display:none after unblocking (e.g. GTranslate, CU-f35k4j)
+
+
+
+
+
 # 1.10.0 (2021-03-02)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.2 (2021-03-10)
+
+
+### fix
+
+* renaming a folder did work, but no success message (CU-fb02e3)
+
+
+
+
+
 ## 4.13.1 (2021-03-02)
 
 

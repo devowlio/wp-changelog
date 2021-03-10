@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.5 (2021-03-10)
+
+
+### chore
+
+* hide some notices on try.devowl.io (CU-f53trz)
+* update texts (CU-f134wh)
+
+
+### fix
+
+* automatically deactivate license when migrating / cloning the website and show notice (CU-f134wh)
+
+
+
+
+
 ## 1.5.4 (2021-03-02)
 
 
