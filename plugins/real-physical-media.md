@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.17 (2021-03-10)
+
+
+### build
+
+* plugin tested for WordPress 5.7 (CU-f4ydk2)
+
+
+### fix
+
+* uploading a PDF directly to a folder did not generate a thumbnail (CU-fb02e3)
+
+
+
+
+
 ## 1.3.16 (2021-03-02)
 
 
