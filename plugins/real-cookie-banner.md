@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.12.0 (2021-03-10)
+
+
+### build
+
+* plugin tested for WordPress 5.7 (CU-f4ydk2)
+
+
+### chore
+
+* register and translate new presets (CU-eyzegt, CU-f4yzpm)
+
+
+### feat
+
+* new cookie and content blocker preset Yandex Metrica (CU-f4yzpm)
+* new cookie preset for Bing Ads (Microsoft UET) (CU-eyzegt)
+* new cookie preset found.ee (CU-f97ady)
+
+
+### fix
+
+* more granular translation for TranslatePress for blockers, cookie group, cookies and banner texts
+
+
+
+
+
 # 1.11.0 (2021-03-10)
 
 
