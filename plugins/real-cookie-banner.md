@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.12.0 (2021-03-10)
+# 1.12.0 (2021-03-15)
 
 
 ### build
@@ -26,6 +26,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### fix
 
 * more granular translation for TranslatePress for blockers, cookie group, cookies and banner texts
+* use the correct permalinks in the banner footer (CU-e8x3em)
 
 
 
