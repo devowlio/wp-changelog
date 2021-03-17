@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2021-03-17)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### feat
+
+* introduce Weglot compatibility (CU-fd0cmc)
+
+
+### fix
+
+* array offset notice directly after installing WPML (CU-e8x3em)
+
+
+
+
+
 ## 1.5.1 (2021-02-24)
 
 

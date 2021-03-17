@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.5.6 (2021-03-17)
+
+
+### chore
+
+* max. activations per license explain in more detail when limit reached and link to customer center (CU-fn1k7v)
+
+
+### fix
+
+* plugin could not be installed if an older version of PuC is used by another plugin
+
+
+
+
+
 ## 1.5.5 (2021-03-10)
 
 
