@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.12.0 (2021-03-10)
+# 1.12.0 (2021-03-22)
 
 
 ### build
@@ -25,7 +25,12 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### fix
 
+* compatibility of content blocker with TranslatePress and Weglot (CU-fz6gxc)
+* compatibility with Ultimate Video (CU-fz6gxc)
+* export of consents contained notices in some PHP environments (CU-ff0z49)
 * more granular translation for TranslatePress for blockers, cookie group, cookies and banner texts
+* show notice for frontend banner if no license is active (CU-fyzukg)
+* use the correct permalinks in the banner footer (CU-e8x3em)
 
 
 
