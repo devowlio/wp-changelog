@@ -3,6 +3,73 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.0.0 (2021-03-23)
+
+
+### build
+
+* plugin tested for WordPress 5.7 (CU-f4ydk2)
+
+
+### chore
+
+* directly link to new settings page in Welcome page after plugin activation (CU-dcy665)
+* new developer hooks RCL/Typenow, RCL/TableCheckboxName and RCL/ForcePostTypes
+* remove option in WooCommerce to make attributes hierarchical (CU-dcy665)
+* removed options in Screen settings cause you will find it new settings page (CU-dcy665)
+* review 1 (CU-dcy665)
+* update antd to 4.8 (CU-dcy665)
+* update link to Real Media Library in options page (CU-dcy665)
+* update translations (CU-fz392b)
+
+
+### ci
+
+* do not show license form for E2E tests
+* upload artifacts to license.devowl.io (CU-fq1kd8)
+
+
+### docs
+
+* add GIFs and new header image in wordpress.org description (CU-60d07j)
+* rewrite wordpress.org product description (CU-60d07j)
+
+
+### feat
+
+* automatically install and activate Real Custom Post Order on button click (CU-dcy665)
+* automatically make none-hierarchical taxonomies hierarchical
+* introduce new automatic plugin updater (CU-fq1kd8)
+* new options page in Settings > Category Management (CU-dcy665)
+* rewrite English and German translation (CU-dcy665)
+* translation to Dutch (CU-dcy665)
+* translation to French (CU-dcy665)
+* translation to Italian (CU-dcy665)
+* translation to Spanish (CU-dcy665)
+
+
+### fix
+
+* better compatibility with Custom Post Type UI (CU-dcy665)
+* compatibility with WP Job Openings
+
+
+### style
+
+* improve compatibility with WooCommerce list table (CU-dcy665)
+
+
+### BREAKING CHANGE
+
+* please reactivate your current license to get latest updates for PRO
+* if you want to force none-hierarchical taxonomies use custom filter
+or rename the taxonomy so it contains "_tag"
+* WooCommerce attributes are automatically hierarchical and can no longer be disabled
+
+
+
+
+
 ## 3.5.7 (2021-03-03)
 
 

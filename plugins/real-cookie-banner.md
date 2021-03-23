@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 1.12.0 (2021-03-10)
+# 1.12.0 (2021-03-23)
 
 
 ### build
@@ -14,10 +14,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### chore
 
 * register and translate new presets (CU-eyzegt, CU-f4yzpm)
+* translate and register new presets (CU-fn1j8z, CU-c6vmwh)
+
+
+### docs
+
+* new compatibilities in wordpress.org description (CU-fk068g)
 
 
 ### feat
 
+* new cookie and content blocker preset Bloom (CU-fn1j8z)
+* new cookie and content blocker preset Typeform (CU-c6vmwh)
 * new cookie and content blocker preset Yandex Metrica (CU-f4yzpm)
 * new cookie preset for Bing Ads (Microsoft UET) (CU-eyzegt)
 * new cookie preset found.ee (CU-f97ady)
@@ -25,7 +33,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### fix
 
+* calculate rendered height for banner footer to gain better edge smoothing
+* compatibility of content blocker with TranslatePress and Weglot (CU-fz6gxc)
+* compatibility with Ultimate Video (CU-fz6gxc)
+* export of consents contained notices in some PHP environments (CU-ff0z49)
 * more granular translation for TranslatePress for blockers, cookie group, cookies and banner texts
+* show notice for frontend banner if no license is active (CU-fyzukg)
+* use the correct permalinks in the banner footer (CU-e8x3em)
 
 
 
