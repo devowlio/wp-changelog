@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.3 (2021-03-23)
+
+
+### build
+
+* plugin tested for WordPress 5.7 (CU-f4ydk2)
+
+
+### docs
+
+* improve wordpress.org product description (CU-fk36dn)
+
+
+
+
+
 ## 4.13.2 (2021-03-10)
 
 

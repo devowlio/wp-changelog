@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.6.0 (2021-03-23)
+
+
+### chore
+
+* max. activations per license explain in more detail when limit reached and link to customer center (CU-fn1k7v)
+
+
+### feat
+
+* allow to migrate from older license keys (CU-fq1kd8)
+
+
+### fix
+
+* allow to only get the href for the plugin activation link and make API public (CU-fq1kd8)
+* consider allow autoupdates as true if previously no auto updates exist (CU-fq1kd8)
+* do not deactivate license when saving new URL through General > Settings (CU-g150eg)
+* in a multisite installation only consider blogs with Real Cookie Banner active (CU-fyzukg)
+* plugin could not be installed if an older version of PuC is used by another plugin
+* prefill code from warning / error hint and allow 32 char (non-UUID) format codes (CU-fq1kd8)
+* switch to blog while validating new hostname for license (CU-fyzukg)
+
+
+
+
+
 ## 1.5.5 (2021-03-10)
 
 
