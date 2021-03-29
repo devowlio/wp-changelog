@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.1 (2021-03-29)
+
+
+### chore
+
+* update text to explain the installation type (CU-g57mdw)
+
+
+### fix
+
+* group licenses by hostname of each blog instead of blog (CU-g751j8)
+
+
+### refactor
+
+* use composer autoload to setup constants and package localization
+
+
+
+
+
 # 1.6.0 (2021-03-23)
 
 
