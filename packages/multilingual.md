@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-03-29)
+
+
+### feat
+
+* provide iso-3166-1 alpha-2 codes and translations (CU-g53zgk)
+
+
+### refactor
+
+* use composer autoload to setup constants and package localization
+
+
+
+
+
 # 1.6.0 (2021-03-23)
 
 

@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.8.0 (2021-03-29)
+
+
+### chore
+
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+### feat
+
+* add contrast ratio (luminosity) calculator and validator (CU-cq25hu)
+* introduce new filter DevOwl/Customize/Sections/$panel
+
+
+### fix
+
+* print description for TinyMCE control (CU-cq1rka)
+
+
+
+
+
 ## 1.7.2 (2021-02-16)
 
 

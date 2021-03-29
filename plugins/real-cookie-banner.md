@@ -3,6 +3,78 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2021-03-29)
+
+
+### build
+
+* own JS bundle for TCF banner and enqueue stub (CU-fk051q)
+* wrong refernce to PSR-4 namespace
+
+
+### chore
+
+* introduce new filter to disable setting the RCB cookie via RCB/SetCookie/Allow
+* minimum required version of PHP is 7.2
+* update texts to be more informative about legal basis and print text for Consent Forwarding if active (respects also TCF global scope) (CU-cq1rka)
+
+
+### feat
+
+* add contrast ratio validator and call-to-action adjustments for TCF compatibility (CU-cq25hu)
+* add GVL instance to all available banner contexts (CU-fjzcd8)
+* allow to define a list of countries to show only the banner to them e.g. only EU (Country Bypass, CU-80ub8k)
+* allow to export and import TCF vendor configurations (CU-ff0yvh)
+* allow to forward TCF consent with Consent Forwarding (CU-ff10cy)
+* automatically refresh GVL via button and periodically (CU-63ty1t)
+* calculate suitable stacks and add them to revision (CU-fh0bx6)
+* download and normalize Global Vendor List for TCF compatibility (CU-63ty1t)
+* introduce origin of business entity field for TCF integration (CU-g53zgk)
+* introduce revision for TCF vendors and declarations (CU-ff0zhy)
+* introduce settings tab for TCF compatibility in Cookies > Settings (CU-cq29n2)
+* introduce so-called Custom Bypass so developers can dynamically set a predecision and hide the banner automatically (e.g. Geolocation, CU-80ub8k)
+* introduce UI to create a TCF vendor configuration and create TCF vendor configuration REST API (CU-crwq2r)
+* introduce UI to edit a TCF vendor configuration (CU-crwq2r)
+* new customizer control to adjust the opacity of box shadow color (CU-cz1d9t)
+* persist TCF strings for proof of consent and dispatch to CMP API (CU-ff0z49)
+* properly replace non-javascript ad tags with current TC String (CU-ct1gfd)
+* register new Custom Post Type for TCF vendor configurations (CU-crwq2r)
+* show and allow to customize TCF stacks (CU-cq1rka)
+* show TCF vendors and declarations (purposes, special purposes, ...) in second view of cookie banner (CU-ff0yvh)
+* when navigating to /tcf-vendors/new show a list of all available vendors (CU-crwq2r)
+
+
+### fix
+
+* automatically deactivate option to respect DnT header when activating TCF for the first time
+* cookie history could not be closed when no consent given
+* localize stacks correctly and sort by score (CU-ff0zhy)
+* notices thrown when no vendor given (CU-ff0yvh)
+* review 1 (TCF, CU-ff0yck)
+* review 2 (CU-ff0yvh)
+* review 3 (CU-ff0yvh)
+* review 4 (CU-ff0yvh)
+* review 5 (CU-ff0z49)
+
+
+### perf
+
+* combine vendor modules to a common chunk for both TCF and non-TCF
+
+
+### style
+
+* refactor all banner presets (CU-fn68er)
+
+
+### BREAKING CHANGE
+
+* please upgrade your PHP version to >= 7.2
+
+
+
+
+
 # 1.13.0 (2021-03-23)
 
 
