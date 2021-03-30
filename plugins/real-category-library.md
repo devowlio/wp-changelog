@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.1 (2021-03-30)
+
+
+### docs
+
+* formatting error in wordpress.org product description corrected
+
+
+
+
+
 # 4.0.0 (2021-03-23)
 
 
