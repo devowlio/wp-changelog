@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.13.2 (2021-04-03)
+
+
+### fix
+
+* allow to Add Media in banner description
+* allow to granular block urls in inline CSS (CU-gk0d9a)
+* avoid catasrophical backtrace when blocking an inline style (CU-gh964b)
+* compatibility with MailerLite content blocker and Thrive Archtiect page builder (CU-gh4hr5)
+
+
+
+
+
 ## 1.13.1 (2021-03-30)
 
 **Note:** Version bump only for package @devowl-wp/real-cookie-banner
