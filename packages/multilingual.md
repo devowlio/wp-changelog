@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.2 (2021-04-13)
+
+
+### fix
+
+* allow to set privacy policy URL per language (WPML, PolyLang, CU-gq33k2)
+
+
+
+
+
 ## 1.6.1 (2021-03-30)
 
 
