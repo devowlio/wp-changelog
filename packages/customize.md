@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.3 (2021-04-14)
+
+
+### chore
+
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+### fix
+
+* allow to Add Media in banner description
+
+
+
+
+
 ## 1.7.2 (2021-02-16)
 
 

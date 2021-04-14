@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.2 (2021-04-14)
+
+
+### fix
+
+* do not make WPML and PolyLang terms automatically hierarchical (CU-gq7rrn)
+
+
+
+
+
 ## 4.0.1 (2021-03-30)
 
 

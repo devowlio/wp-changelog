@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.14.0 (2021-04-14)
+
+
+### chore
+
+* translate new cookie and content blocker presets (CU-h158p2)
+
+
+### feat
+
+* new cookie and content blocker preset Metricool (CU-gz7ptb)
+* new cookie and content blocker preset Popup Maker (CU-gt22gk)
+* new cookie and content blocker preset RankMath Google Analytics (CU-gh4gcw)
+* new cookie and content blocker preset Thrive Leads (CU-gh4qgh)
+
+
+### fix
+
+* allow to Add Media in banner description
+* allow to extract blocked inline style to own style HTML block (CU-gk0d9a)
+* allow to granular block urls in inline CSS (CU-gk0d9a)
+* allow to set privacy policy URL per language (WPML, PolyLang, CU-gq33k2)
+* avoid catasrophical backtrace when blocking an inline style (CU-gh964b)
+* compatibility with LiteSpeed cache buffer
+* compatibility with MailerLite content blocker and Thrive Archtiect page builder (CU-gh4hr5)
+* compatibility with Ultimate Video (CU-fz6gxc)
+* consentSync API returned the wrong found cookie when two cookies use same technical definitions - introduced relevance scoring
+* usage with PolyLang with more than two languages and copy automatically to new languages (CU-gt3kam)
+
+
+
+
+
 ## 1.13.1 (2021-03-30)
 
 **Note:** Version bump only for package @devowl-wp/real-cookie-banner
