@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-04-15)
+
+
+### feat
+
+* allow to lock current translations (CU-gt3kam)
+* introduce a new class CopyContent that allows you to copy one language to another one completely or individually (CU-gt3kam)
+* introduce new filter to skip language iterations and allow referencing Sync instances (CU-gt3kam)
+
+
+### fix
+
+* allow to set privacy policy URL per language (WPML, PolyLang, CU-gq33k2)
+* usage with PolyLang with more than two languages (CU-gt3kam)
+
+
+
+
+
 ## 1.6.1 (2021-03-30)
 
 

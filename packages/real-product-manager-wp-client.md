@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.2 (2021-04-15)
+
+
+### chore
+
+* show old and new hostname after license deactivation
+
+
+### fix
+
+* compatibility with WPML and PolyLang when using different domains (CU-h79b76)
+
+
+
+
+
 ## 1.6.1 (2021-03-30)
 
 
