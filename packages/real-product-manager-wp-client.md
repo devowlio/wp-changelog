@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.3 (2021-04-27)
+
+
+### fix
+
+* compatibility with WP_SITEURL PHP constant (CU-hd6ntd)
+* do not validate new host names in WP CLI and WP Cronjob
+* do not validate new hosts for free licenses
+
+
+
+
+
 ## 1.6.2 (2021-04-15)
 
 

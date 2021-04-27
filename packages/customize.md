@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.4 (2021-04-27)
+
+
+### fix
+
+* banner overlay not shown when number format was individually configured on your server (CU-h977nc)
+
+
+
+
+
 ## 1.7.3 (2021-04-15)
 
 

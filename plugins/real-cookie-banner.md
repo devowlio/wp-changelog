@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.14.1 (2021-04-27)
+
+
+### fix
+
+* compatibility with Lite Speed Cache; white screen in customizer
+* introduce new filter RCB/Blocker/InlineScript/AvoidBlockByLocalizedVariable and fix copmatibility with EmpowerWP/Mesmerize (CU-hb8v51)
+* notice array_walk_recursive() expects parameter 1 to be array, integer given
+* output buffer callback should be called always and cannot be removed by third parties
+
+
+### revert
+
+* output buffer callback should be called always and cannot be removed by third parties
+
+
+
+
+
 # 1.14.0 (2021-04-15)
 
 

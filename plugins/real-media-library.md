@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.5 (2021-04-27)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### docs
+
+* add Medialist to compatibility list in wordpress.org description (CU-c71wbc)
+
+
+### fix
+
+* compatibility with latest Divi and backend editor (CU-hka4dk)
+
+
+
+
+
 ## 4.13.4 (2021-03-30)
 
 

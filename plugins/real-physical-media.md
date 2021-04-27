@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.20 (2021-04-27)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### ci
+
+* install and activate Media File Renamer for review apps (CU-hd5jaf)
+
+
+### fix
+
+* allow to repair SEO redirects when e.g. migrated the site and some links are broken (CU-hd5nvg)
+
+
+
+
+
 ## 1.3.19 (2021-03-30)
 
 **Note:** Version bump only for package @devowl-wp/real-physical-media
