@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.8.0 (2021-04-29)
+
+
+### feat
+
+* add contrast ratio (luminosity) calculator and validator (CU-cq25hu)
+* introduce new filter DevOwl/Customize/Sections/$panel
+
+
+### fix
+
+* print description for TinyMCE control (CU-cq1rka)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.7.4 (2021-04-27)
 
 

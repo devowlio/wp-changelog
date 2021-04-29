@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.17 (2021-04-29)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### ci
+
+* push plugin artifacts to GitLab Generic Packages registry (CU-hd6ef6)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.2.16 (2021-03-30)
 
 **Note:** Version bump only for package @devowl-wp/real-custom-post-order

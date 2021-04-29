@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.9 (2021-04-29)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.6.8 (2021-03-30)
 
 

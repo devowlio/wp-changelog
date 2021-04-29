@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.8.0 (2021-04-29)
+
+
+### feat
+
+* provide iso-3166-1 alpha-2 codes and translations (CU-g53zgk)
+
+
+### fix
+
+* assign cookie groups and cookies to correct source language after adding a new language to WPML (CU-hz3a83)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 # 1.7.0 (2021-04-15)
 
 

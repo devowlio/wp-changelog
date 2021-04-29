@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.10.0 (2021-04-29)
+
+
+### chore
+
+* remove classnames as dependency
+* **release :** publish [ci skip]
+
+
+### feat
+
+* native compatibility with preloading and defer scripts with caching plugins (CU-h75rh2)
+* save previous versions of installed plugin in database for migrations (CU-g75t1p)
+
+
+### fix
+
+* do not output RCB settings as base64 encoded string (CU-gx8jkw)
+* use updated link in REST API notice when not reachable
+
+
+### perf
+
+* introduce deferred and preloaded scripts for cookie banner (CU-gn4ng5)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.9.4 (2021-03-23)
 
 

@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-04-29)
+
+
+### feat
+
+* introduce Learn More links to different parts of the UI (CU-gv58rr)
+* translate frontend into German (CU-ex0u4a)
+
+
+### fix
+
+* usage with deferred scripts and content blocker (DOM waterfall, CU-gn4ng5)
+* wrong announcment state directly after first license activation
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.6.3 (2021-04-27)
 
 

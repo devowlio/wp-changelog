@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2021-04-29)
+
+
+### feat
+
+* native compatibility with preloading and defer scripts with caching plugins (CU-h75rh2)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.3.3 (2021-01-11)
 
 

@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.5 (2021-04-29)
+
+
+### chore
+
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+* rename go-links to new syntax (#en621h)
+* **release :** publish [ci skip]
+* **release :** publish [ci skip]
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+
+
+
+
+
 ## 1.3.4 (2021-01-11)
 
 
