@@ -1,14 +1,31 @@
-# deliver-anonymous-asset
+# tcf-vendor-list-normalize
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## 0.1.3 (2021-05-05)
+# 0.2.0 (2021-05-05)
 
 
-### ci
+### feat
 
-* validate eslint
+* allow to query a single vendor (CU-crwq2r)
+* allow to query multiple vendors with the in-argument (CU-ff0zhy)
+* allow to return only declarations instead of with metadata (onlyReturnDeclarations, CU-ff0z49)
+* compatibility with TCF v2.1 (device storage disclosures, CU-h74vna)
+* download and normalize Global Vendor List for TCF compatibility (CU-63ty1t)
+* introduce query class to read purposes and vendors (CU-crwq2r)
+* persist and query stacks, and calculate best suitable stacks for a given set of declarations (CU-fh0bx6)
+
+
+### fix
+
+* localize stacks correctly and sort by score (CU-ff0zhy)
+* map used declarations to own array instead of removing purposes from original vendor (CU-ff0yvh)
+* notices thrown when no vendor given (CU-ff0yvh)
+* review 1 (TCF, CU-ff0yck)
+* review 2 (CU-ff0yvh)
+* review TCF CMP validator (CU-hh395u, CU-hh3dkn)
+* use correct language as requested (CU-crwwdx)
 
 
 ### refactor
@@ -27,32 +44,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * move WP i18n scripts to @devowl-wp/utils
 * move WP specific typescript config to @devowl-wp/wp-webpack package
 * remove @devowl-wp/development package
-
-
-
-
-
-## 0.1.2 (2021-02-24)
-
-
-### fix
-
-* automatically recreate random assets on plugin update
-* correctly serve as HTTPS if requested over HTTPS
-* in some edge cases the wordpress autoupdater does not fire the wp action and dynamic javascript assets are not generated
-
-
-
-
-
-## 0.1.1 (2021-02-05)
-
-
-### chore
-
-* introduce new package @devowl-wp/deliver-anonymous-asset (CU-dgz2p9)
-
-
-### fix
-
-* remove anonymous javascript files on uninstall (CU-dgz2p9)

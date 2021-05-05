@@ -3,6 +3,44 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.7.0 (2021-05-05)
+
+
+### feat
+
+* introduce Learn More links to different parts of the UI (CU-gv58rr)
+* translate frontend into German (CU-ex0u4a)
+
+
+### fix
+
+* ignore IP hostnames while validating a new host (CU-j93gd2)
+* show notice about email checkbox in feedback formular when note has more than 4 words (CU-gd0zw3)
+* usage with deferred scripts and content blocker (DOM waterfall, CU-gn4ng5)
+* wrong announcment state directly after first license activation
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+
+
+
+
+
 ## 1.6.3 (2021-04-27)
 
 

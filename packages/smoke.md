@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.2 (2021-05-05)
+
+
+### refactor
+
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* move WP build process to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+
+
+
+
+
 ## 1.2.1 (2020-12-09)
 
 

@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.17 (2021-05-05)
+
+
+### chore
+
+* **release :** publish [ci skip]
+
+
+### ci
+
+* push plugin artifacts to GitLab Generic Packages registry (CU-hd6ef6)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move technical doc scripts to proper WP and backend package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+* split stubs.php to individual plugins' package
+
+
+
+
+
 ## 1.2.16 (2021-03-30)
 
 **Note:** Version bump only for package @devowl-wp/real-custom-post-order
