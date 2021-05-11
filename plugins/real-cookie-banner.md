@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.1 (2021-05-11)
+
+
+### docs
+
+* update README typos
+
+
+### fix
+
+* **hotfix :** new cookie presets are not visible for Weglot users (CU-hk3jfn)
+
+
+
+
+
 # 2.0.0 (2021-05-11)
 
 

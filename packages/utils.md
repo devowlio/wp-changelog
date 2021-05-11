@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.1 (2021-05-11)
+
+
+### fix
+
+* automatically refetch announcments for updates (CU-jn95nz)
+* **hotfix :** translations are not correctly updated (CU-jf8acx)
+
+
+
+
+
 # 1.10.0 (2021-05-11)
 
 
