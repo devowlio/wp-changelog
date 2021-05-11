@@ -3,6 +3,57 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.10.0 (2021-05-11)
+
+
+### chore
+
+* remove classnames as dependency
+* **release :** publish [ci skip]
+
+
+### feat
+
+* native compatibility with preloading and defer scripts with caching plugins (CU-h75rh2)
+* save previous versions of installed plugin in database for migrations (CU-g75t1p)
+
+
+### fix
+
+* allow to defer loading MobX and run configuration correctly (CU-j575je)
+* compatibility with wp-json-less URLs and plain permalink settings (CU-j93mr8)
+* do not output RCB settings as base64 encoded string (CU-gx8jkw)
+* use updated link in REST API notice when not reachable
+
+
+### perf
+
+* introduce deferred and preloaded scripts for cookie banner (CU-gn4ng5)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP CodeSniffer configuration to @devowl-wp/utils
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move technical doc scripts to proper WP and backend package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+
+
+
+
+
 ## 1.9.4 (2021-03-23)
 
 

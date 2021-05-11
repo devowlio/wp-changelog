@@ -3,6 +3,167 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2021-05-11)
+
+
+### build
+
+* allow to patch scoped build artifact to fix unicode issues (CU-80ub8k)
+* allow to set config name for yarn dev
+* consume TCF CMP ID via environment variable (CU-h15h9f)
+* own JS bundle for TCF banner and enqueue stub (CU-fk051q)
+* update wordpress.org screenshot assets (CU-gf917p)
+* wrong refernce to PSR-4 namespace
+
+
+### chore
+
+* add screenshots for TCF compatibility and Geo-restriction (CU-gf917p)
+* core features description text (CU-gf7dnf)
+* deactivate option to resepect Do Not Track by default (CU-gx1m76)
+* increase minimum PHP version to 7.2 (CU-fh3qby)
+* introduce new filter to disable setting the RCB cookie via RCB/SetCookie/Allow
+* minimum required version of PHP is 7.2
+* name cookie designs consistently (CU-g779gw)
+* remove classnames as dependency
+* rename "cookies" to "services" for consistent wording (CU-f571nh)
+* sharp terms of buttons and labels in cookie banner
+* update @iabtcf packages to >= 1.2.0 to support TCF 2.1 (CU-h539k3)
+* update @iabtcf packages to stable version (CU-g977x9)
+* update texts to be more informative about legal basis and print text for Consent Forwarding if active (respects also TCF global scope) (CU-cq1rka)
+* use more normal style to be independent from formal/informal language (CU-f4ycka)
+
+
+### docs
+
+* wordpress.org description revised (CU-gf7dnf)
+
+
+### feat
+
+* add contrast ratio validator and call-to-action adjustments for TCF compatibility (CU-cq25hu)
+* add GVL instance to all available banner contexts (CU-fjzcd8)
+* allow to customize the text of the powered-by link (CU-f74d53)
+* allow to define a list of countries to show only the banner to them e.g. only EU (Country Bypass, CU-80ub8k)
+* allow to export and import TCF vendor configurations (CU-ff0yvh)
+* allow to forward TCF consent with Consent Forwarding (CU-ff10cy)
+* allow to reset all settings to default in Settings tab (CU-8extcg)
+* automatically refresh GVL via button and periodically (CU-63ty1t)
+* calculate suitable stacks and add them to revision (CU-fh0bx6)
+* compatibility of TCF vendors with ePrivacy USA functionality (CU-h57u92)
+* compatibility with TCF v2.1 (device storage disclosures, CU-h74vna)
+* complement translations for English and German (CU-ex0u4a)
+* completion of English and German translations (CU-ex0u4a)
+* completion of English and German translations (CU-ex0u4a)
+* contrast ratio warning for non-TCF users, opt-in cookie banner activation through popconfirm (CU-j78m3t)
+* create content blockers for TCF vendor configurations (CU-gv58rr)
+* download and normalize Global Vendor List for TCF compatibility (CU-63ty1t)
+* eight new cookie banner presets (CU-g779gw)
+* introduce Learn More links to different parts of the UI (CU-gv58rr)
+* introduce new service field to allow opt-out based on legal basis (CU-ht2zwt)
+* introduce origin of business entity field for TCF integration (CU-g53zgk)
+* introduce revision for TCF vendors and declarations (CU-ff0zhy)
+* introduce settings tab for TCF compatibility in Cookies > Settings (CU-cq29n2)
+* introduce so-called Custom Bypass so developers can dynamically set a predecision and hide the banner automatically (e.g. Geolocation, CU-80ub8k)
+* introduce UI to create a TCF vendor configuration and create TCF vendor configuration REST API (CU-crwq2r)
+* introduce UI to edit a TCF vendor configuration (CU-crwq2r)
+* native compatibility with preloading and defer scripts with caching plugins (CU-h75rh2)
+* new cookie presets for Ezoic (CU-ch2rng)
+* new customizer control to adjust the opacity of box shadow color (CU-cz1d9t)
+* persist TCF strings for proof of consent and dispatch to CMP API (CU-ff0z49)
+* properly replace non-javascript ad tags with current TC String (CU-ct1gfd)
+* provide a migration wizard for v2 in the dashboard (CU-g75t1p)
+* register new Custom Post Type for TCF vendor configurations (CU-crwq2r)
+* show and allow to customize TCF stacks (CU-cq1rka)
+* show TCF vendors and declarations (purposes, special purposes, ...) in second view of cookie banner (CU-ff0yvh)
+* translate backend into German (CU-ex0u4a)
+* translate frontend into German (CU-ex0u4a)
+* when navigating to /tcf-vendors/new show a list of all available vendors (CU-crwq2r)
+
+
+### fix
+
+* add custom bypasses to the DnT stats pie chart (CU-gf4egf)
+* add United Kingdom (GB) as default to Country Bypass list (CU-hz8rka)
+* assign cookie groups and cookies to correct source language after adding a new language to WPML (CU-hz3a83)
+* automatically clear page caches after license activation / deactivation (CU-jd7t87)
+* automatically deactivate option to respect DnT header when activating TCF for the first time
+* compatibility TCF and WPML / PolyLang
+* compatibility with Customizer checkbox values and Redis Object Cache (CU-jd4662)
+* cookie history could not be closed when no consent given
+* do not output RCB settings as base64 encoded string (CU-gx8jkw)
+* first review with Advanced Ads (Pro, CU-g9665t)
+* localize stacks correctly and sort by score (CU-ff0zhy)
+* make consentAPI available in head scripts
+* make group description texts resettable (CU-gf3dew)
+* notices thrown when no vendor given (CU-ff0yvh)
+* output UUID on legal sites, too (CU-jha8xc)
+* review 1 (TCF, CU-ff0yck)
+* review 2 (CU-ff0yvh)
+* review 3 (CU-ff0yvh)
+* review 4 (CU-ff0yvh)
+* review 5 (CU-ff0z49)
+* review 6 (CU-80ub8k)
+* review 7 (CU-80ub8k)
+* review TCF CMP validator (CU-hh395u, CU-hh3dkn)
+* review with user test (thanks to Carlo, CU-gd12qp)
+* review with user test (thanks to Franz, CU-gd12mq)
+* review with user test (thanks to Franz, CU-gd12mq)
+* review with user test (thanks to Jonas, CU-gd12hq)
+* show vendor ID in list table of TCF vendors (CU-gf8h2g)
+* show vendor list link for TCF banner in footer (CU-g977x9)
+* the Lighthouse crawler is not a bot (CU-j575je)
+* translate "legitimate interest" always with "Berechtigtes Interesse" (CU-ht31w2)
+* translate footer text correctly for TranslatePress / Weglot (CU-ht82qm)
+* usage with deferred scripts and content blocker (DOM waterfall, CU-gn4ng5)
+
+
+### perf
+
+* avoid catastrophal backtracing and speed up regular expression for inline scripts/styles by 90% (CU-j77a9g)
+* combine vendor modules to a common chunk for both TCF and non-TCF
+* introduce deferred and preloaded scripts for cookie banner (CU-gn4ng5)
+* remove TCF CmpApi from non-TCF bundle
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce bundleAnalyzerOptions in development package
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* make content blocker independent of custom post type
+* make Vimeo and SoundCloud to Pro presets (CU-gf49yy)
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move special blocker PHP classes in own namespace
+* move technical doc scripts to proper WP and backend package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+* split stubs.php to individual plugins' package
+
+
+### style
+
+* improve Web Vitals by setting a fixed width / height for the logo (CU-j575je)
+* refactor all banner presets (CU-fn68er)
+
+
+### BREAKING CHANGE
+
+* please upgrade your PHP version to >= 7.2
+
+
+
+
+
 ## 1.14.1 (2021-04-27)
 
 

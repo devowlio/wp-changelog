@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.6 (2021-05-11)
+
+
+### chore
+
+* remove classnames as dependency
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move technical doc scripts to proper WP and backend package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+* split stubs.php to individual plugins' package
+
+
+
+
+
 ## 4.13.5 (2021-04-27)
 
 
