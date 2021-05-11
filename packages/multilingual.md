@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.8.0 (2021-05-11)
+
+
+### feat
+
+* provide iso-3166-1 alpha-2 codes and translations (CU-g53zgk)
+
+
+### fix
+
+* assign cookie groups and cookies to correct source language after adding a new language to WPML (CU-hz3a83)
+
+
+### refactor
+
+* create wp-webpack package for WordPress packages and plugins
+* introduce eslint-config package
+* introduce new grunt workspaces package for monolithic usage
+* introduce new package to validate composer licenses and generate disclaimer
+* introduce new package to validate yarn licenses and generate disclaimer
+* introduce new script to run-yarn-children commands
+* move build scripts to proper backend and WP package
+* move jest scripts to proper backend and WP package
+* move PHP Unit bootstrap file to @devowl-wp/utils package
+* move PHPUnit and Cypress scripts to @devowl-wp/utils package
+* move WP build process to @devowl-wp/utils
+* move WP i18n scripts to @devowl-wp/utils
+* move WP specific typescript config to @devowl-wp/wp-webpack package
+* remove @devowl-wp/development package
+
+
+
+
+
 # 1.7.0 (2021-04-15)
 
 
