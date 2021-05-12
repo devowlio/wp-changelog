@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.2 (2021-05-12)
+
+
+### fix
+
+* compatibility with PixelYourSite Facebook image tag (pixel)
+* compatibility with WP Rocket lazy loading scripts (CU-jq4bhw)
+
+
+
+
+
 ## 2.0.1 (2021-05-11)
 
 
