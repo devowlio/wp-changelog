@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.8.1 (2021-05-14)
+
+
+### fix
+
+* multilingual plugins like Weglot and TranslatePress should show more options in Consent Forwarding setting
+
+
+
+
+
 # 1.8.0 (2021-05-11)
 
 

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.3 (2021-05-14)
+
+
+### fix
+
+* customizer does not work when WP Fastest Cache is active (CU-jq9aua)
+* multilingual plugins like Weglot and TranslatePress should show more options in Consent Forwarding setting
+
+
+
+
+
 ## 2.0.2 (2021-05-12)
 
 

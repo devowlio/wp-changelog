@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.2 (2021-05-14)
+
+
+### fix
+
+* sometimes the modal is not shown due to race condition with mobx.configure isolate global state
+
+
+
+
+
 ## 1.7.1 (2021-05-11)
 
 

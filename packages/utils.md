@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.3 (2021-05-14)
+
+
+### fix
+
+* compatibility with Perfmatters users when delay JS is active (CU-jq8hzf)
+
+
+
+
+
 ## 1.10.2 (2021-05-12)
 
 
