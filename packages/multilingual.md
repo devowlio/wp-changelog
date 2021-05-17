@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.8.2 (2021-05-17)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* upgrade dependencies to latest minor version
+
+
+
+
+
 ## 1.8.1 (2021-05-14)
 
 

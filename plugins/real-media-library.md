@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.10 (2021-05-17)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+
+
+
 ## 4.13.9 (2021-05-14)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library

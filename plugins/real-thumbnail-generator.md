@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.5.10 (2021-05-17)
+
+
+### chore
+
+* compatibility with latest antd version
+* migarte loose mode to compiler assumptions
+* prettify code to new standard
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+
+
+
 ## 2.5.9 (2021-05-14)
 
 **Note:** Version bump only for package @devowl-wp/real-thumbnail-generator
