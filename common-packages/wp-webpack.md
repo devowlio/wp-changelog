@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.2 (2021-05-18)
+
+
+### chore
+
+* compatibility with latest antd version
+* update dependencies for safe major version bumps
+* update less@4
+* update major dependency clean-css@5 and css-minimizer-webpack-plugin@3
+* upgrade dependencies to latest minor version
+
+
+
+
+
 ## 0.1.1 (2021-05-11)
 
 
