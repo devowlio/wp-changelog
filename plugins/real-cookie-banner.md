@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.4 (2021-05-18)
+
+
+### chore
+
+* compatibility with latest antd version
+* migarte loose mode to compiler assumptions
+* own chunk for blocker vendors, but still share (CU-jhbuvd)
+* polyfill setimmediate only if needed (CU-jh3czf)
+* prettify code to new standard
+* remove es6-promise polyfill (CU-jh3czn)
+* remove whatwg-fetch polyfill (CU-jh3czg)
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+### refactor
+
+* style classes to functions for tree shaking (CU-jh75eg)
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+
+
+
+
+
 ## 2.0.3 (2021-05-14)
 
 
