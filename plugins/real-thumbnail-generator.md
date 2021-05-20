@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.5.10 (2021-05-20)
+
+
+### chore
+
+* compatibility with latest antd version
+* migarte loose mode to compiler assumptions
+* polyfill setimmediate only if needed (CU-jh3czf)
+* prettify code to new standard
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+### fix
+
+* do not rely on install_plugins capability, instead use activate_plugins so GIT-synced WP instances work too (CU-k599a2)
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+
+
+
+
+
 ## 2.5.9 (2021-05-14)
 
 **Note:** Version bump only for package @devowl-wp/real-thumbnail-generator
