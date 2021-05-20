@@ -3,6 +3,53 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.0.4 (2021-05-20)
+
+
+### chore
+
+* compatibility with latest antd version
+* introduce new developer filter RCB/Misc/ProUrlArgs (CU-jbayae)
+* introduce new RCB/Hint section to add custom tiles to the right dashboard section (CU-jbayae)
+* migarte loose mode to compiler assumptions
+* own chunk for blocker vendors, but still share (CU-jhbuvd)
+* polyfill setimmediate only if needed (CU-jh3czf)
+* prettify code to new standard
+* remove es6-promise polyfill (CU-jh3czn)
+* remove whatwg-fetch polyfill (CU-jh3czg)
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+### fix
+
+* compatibility with Astra theme oEmbed container (CU-k18eqe)
+* padding of content blocker parent got reset
+
+
+### refactor
+
+* style classes to functions for tree shaking (CU-jh75eg)
+
+
+### style
+
+* pro dialog (CU-jbayae)
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+
+
+
+
+
 ## 2.0.3 (2021-05-14)
 
 

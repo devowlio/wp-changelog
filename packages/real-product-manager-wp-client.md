@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.3 (2021-05-20)
+
+
+### chore
+
+* compatibility with latest antd version
+* migarte loose mode to compiler assumptions
+* prettify code to new standard
+* upgrade dependencies to latest minor version
+
+
+### fix
+
+* validate current host with parse_url to avoid some strange scenarios
+
+
+
+
+
 ## 1.7.2 (2021-05-14)
 
 
