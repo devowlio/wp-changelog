@@ -3,6 +3,71 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.1.0 (2021-05-21)
+
+
+### chore
+
+* compatibility with latest antd version
+* introduce new developer filter RCB/Misc/ProUrlArgs (CU-jbayae)
+* introduce new RCB/Hint section to add custom tiles to the right dashboard section (CU-jbayae)
+* migarte loose mode to compiler assumptions
+* own chunk for blocker vendors, but still share (CU-jhbuvd)
+* polyfill setimmediate only if needed (CU-jh3czf)
+* prettify code to new standard
+* remove es6-promise polyfill (CU-jh3czn)
+* remove whatwg-fetch polyfill (CU-jh3czg)
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+### feat
+
+* allow to block content in login page (e.g. using Google reCaptcha, CU-jqb6y0)
+* new service and content blocker preset Sendinblue (CU-k3cf3r)
+* new service and content blocker preset Xing Events (CU-k3cfab)
+
+
+### fix
+
+* allow visual parent by children selector (querySelector on blocked content, CU-k7601j)
+* compatibility with Astra theme oEmbed container (CU-k18eqe)
+* compatibility with Dynamic Content for Elementor plugin (CU-k7601j)
+* compatibility with elementor widgets when they are directly blocked (CU-k7601j)
+* do not content block when elementor preview is active
+* do not rely on install_plugins capability, instead use activate_plugins so GIT-synced WP instances work too (CU-k599a2)
+* padding of content blocker parent got reset
+* support for @font-face directive when blocking inline style (CU-k3cf3r)
+* visual parent does not work for custom elementor blocker (CU-k7601j)
+* when an inline script creates a new DOM element it is sometimes invisible (CU-k3cf3r)
+* white screen when searching for duplicate content blockers
+
+
+### refactor
+
+* move compatibility code to own folder
+* own function to override native addEventListener functionality
+* style classes to functions for tree shaking (CU-jh75eg)
+
+
+### style
+
+* pro dialog (CU-jbayae)
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+
+
+
+
+
 ## 2.0.3 (2021-05-14)
 
 

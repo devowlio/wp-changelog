@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.10 (2021-05-21)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* polyfill setimmediate only if needed (CU-jh3czf)
+* prettify code to new standard
+* upgrade dependencies to latest minor version
+
+
+### fix
+
+* do not rely on install_plugins capability, instead use activate_plugins so GIT-synced WP instances work too (CU-k599a2)
+
+
+
+
+
 ## 1.6.9 (2021-05-11)
 
 

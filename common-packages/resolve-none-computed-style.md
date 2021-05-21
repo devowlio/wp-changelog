@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.2 (2021-05-21)
+
+
+### fix
+
+* resolve CSS height for CORS blocked stylesheets throw an error
+
+
+
+
+
 ## 1.1.1 (2021-05-11)
 
 

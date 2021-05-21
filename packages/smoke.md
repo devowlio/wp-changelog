@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.3 (2021-05-21)
+
+
+### chore
+
+* upgrade dependencies to latest minor version
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+* run smoke tests also for chore/patch branches
+
+
+
+
+
 ## 1.2.2 (2021-05-11)
 
 
