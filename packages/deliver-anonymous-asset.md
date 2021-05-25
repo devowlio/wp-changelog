@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.4 (2021-05-25)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+
+
+
+
+
 ## 0.1.3 (2021-05-11)
 
 

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.8.2 (2021-05-25)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* upgrade dependencies to latest minor version
+
+
+### fix
+
+* compatibility with TranslatePress + WP Rocket + BunnyCDN (CU-jn9w79)
+
+
+
+
+
 ## 1.8.1 (2021-05-14)
 
 

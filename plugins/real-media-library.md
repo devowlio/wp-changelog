@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.10 (2021-05-25)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* polyfill setimmediate only if needed (CU-jh3czf)
+* revert update of typedoc@0.20.x as it does not support monorepos yet
+* upgrade dependencies to latest minor version
+
+
+### ci
+
+* move type check to validate stage
+
+
+### fix
+
+* do not rely on install_plugins capability, instead use activate_plugins so GIT-synced WP instances work too (CU-k599a2)
+
+
+### test
+
+* make window.fetch stubbable (CU-jh3cza)
+
+
+
+
+
 ## 4.13.9 (2021-05-14)
 
 **Note:** Version bump only for package @devowl-wp/real-media-library

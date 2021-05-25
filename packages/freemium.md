@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.6 (2021-05-25)
+
+
+### chore
+
+* migarte loose mode to compiler assumptions
+* prettify code to new standard
+* upgrade dependencies to latest minor version
+
+
+### fix
+
+* do not rely on install_plugins capability, instead use activate_plugins so GIT-synced WP instances work too (CU-k599a2)
+
+
+
+
+
 ## 1.3.5 (2021-05-11)
 
 
