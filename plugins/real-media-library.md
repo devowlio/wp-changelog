@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.11 (2021-06-02)
+
+
+### fix
+
+* height of preview image in list table
+
+
+
+
+
 ## 4.13.10 (2021-05-25)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.4 (2021-06-02)
+
+
+### chore
+
+* skip validate hosts in some cases
+
+
+### fix
+
+* allow hidden IP address to be valid for license activation (CU-kk4dd7)
+
+
+
+
+
 ## 1.7.3 (2021-05-25)
 
 

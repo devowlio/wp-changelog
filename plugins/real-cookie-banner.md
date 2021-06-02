@@ -3,6 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.2.0 (2021-06-02)
+
+
+### chore
+
+* clearer differentiation of the plugin's benefits in wordpress.org description (CU-kbaequ)
+* clearer differentiation of the plugin's benefits in wordpress.org description (CU-kbaequ)
+* clearer differentiation of the plugin's benefits in wordpress.org description (CU-kbaequ)
+* clearer differentiation of the plugin's benefits in wordpress.org description (CU-kbaequ)
+* translate new cookie and content blocker presets (CU-kt7e5r, CU-kk8gvu, CU-k759kz)
+* update Cloudflare service template (CU-ff6vzc)
+
+
+### feat
+
+* new content blocker for WordPress login when using e.g. reCaptcha (CU-jqb6y0)
+* new cookie and content blocker preset Awin Link and Image Ads (CU-k759kz)
+* new cookie and content blocker preset Awin Publisher MasterTag (CU-k759kz)
+* new cookie and content blocker preset ConvertKit (CU-kk8gvu)
+* new cookie and content blocker preset WP-Matomo Integration (former WP-Piwik, CU-kt7e5r)
+
+
+### fix
+
+* avoid duplicate execution of inline scripts when they take longer than 1 second
+* block more JS code in content blocker of "Mailchimp for WooCommerce" template
+* compatibility with 'Modern' admin style
+* compatibility with Elementor PRO Video API / blocks (CU-kd5nne)
+* compatibility with Elementor Video API for Vimeo and YouTube (CU-kd5nne)
+* compatibility with Google Maps plugin by flippercode (CU-kn82nw)
+* do anonymize localized variables in wp-login.php (CU-jqb6y0)
+* do not allow creating a content blocker when you try to assign a cookie to essential group (CU-jqb6y0)
+* do not apply content blocker in customizer preview
+* page does not get reloaded automatically after consent on safari / iOS (CU-kt8q4n)
+* use anti-ad-block system also in login page (CU-kh5jpd)
+* use script tag with custom type declaration to be HTML markup compatible (head, CU-kt4njv)
+
+
+
+
+
 # 2.1.0 (2021-05-25)
 
 

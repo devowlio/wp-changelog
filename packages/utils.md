@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.5 (2021-06-02)
+
+
+### fix
+
+* use priority language files over wp-content/languages (CU-ktatf6)
+
+
+
+
+
 ## 1.10.4 (2021-05-25)
 
 
