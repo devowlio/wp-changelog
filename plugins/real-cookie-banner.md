@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.3.0 (2021-06-15)
+
+
+### chore
+
+* allow to check for consent with consentApi by post ID (CU-m9e56j)
+* introduce new PHP developer API wp_rcb_service_groups() and wp_rcb_services_by_group() (CU-m9e56j)
+* simplify text of the age notice (CU-m3a6n2)
+* translate new presets (CU-m38dkk, CU-kt8cat, CU-m3dtuf, CU-m15mty)
+
+
+### feat
+
+* automatically delegate click from content blocker when we unblock a link
+* content blocker Google Translate compatible with "Translate WordPress" plugin (CU-m3e1fm)
+* define Google Adsense Publisher ID in Google Adsense service template to alloew e.g. auto ads (CU-m7e13d)
+* new cookie and content blocker preset Calendly (CU-m38dkk)
+* new cookie and content blocker preset MailPoet (CU-m3dtuf)
+* new cookie and content blocker preset My Cruise Excursion / meine-landesausflüge (CU-kt8cat)
+* new cookie and content blocker preset Smash Balloon Social Photo Feed (CU-m15mty)
+
+
+### fix
+
+* adjust three customizer presets to be compatible with latest Dr. Schwenke newsletter (Dark patterns, CU-m1e0zn)
+* allow service for MailPoet 2 (deprecated plugin, CU-m3dtuf)
+* allow window.onload assignments in blocked content (CU-m38dkk)
+* block reddit post embed as iframe (CU-m15mty)
+* compatibility with Astra theme and hamburger menu (automatically collapse if clicked too early)
+* compatibility with BookingKit and blur effect (CU-m1acj0)
+* content blocker could not find already existing cookies
+* do not show element server-side rendered to improve web vitals (CU-m15mty)
+* elementor ready trigger is dispatched too early
+* hide Refresh site on consent option as it is not needed (CU-m9dey3)
+* load animate.css only when needed (CU-mddt99)
+* show warning when accept essentials differs from accept all button type (CU-m1e0zn)
+
+
+### revert
+
+* disable MailPoet preset as it is not yet ready (https://git.io/JnqoX, CU-m3dtuf)
+
+
+
+
+
 # 2.2.0 (2021-06-05)
 
 
