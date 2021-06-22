@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.5.12 (2021-06-22)
+
+**Note:** Version bump only for package @devowl-wp/real-thumbnail-generator
+
+
+
+
+
 ## 2.5.11 (2021-06-05)
 
 **Note:** Version bump only for package @devowl-wp/real-thumbnail-generator

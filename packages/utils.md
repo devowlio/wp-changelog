@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.6 (2021-06-22)
+
+
+### chore
+
+* initial commit for @devowl-wp/grunt-mojito
+* no longer generate i18n files while development
+
+
+### refactor
+
+* get rid of execSync and spawnSync and parallelize
+* introduce new command with execa instead of own exec implementation
+
+
+
+
+
 ## 1.10.5 (2021-06-05)
 
 

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.11 (2021-06-22)
+
+**Note:** Version bump only for package @devowl-wp/real-utils
+
+
+
+
+
 ## 1.6.10 (2021-05-25)
 
 
