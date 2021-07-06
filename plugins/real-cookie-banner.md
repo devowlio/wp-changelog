@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.4.0 (2021-07-06)
+
+
+### feat
+
+* new cookie and content blocker preset MailPoet (CU-m3dtuf)
+
+
+### fix
+
+* add EFTA countries to countries where the GDPR applies (CU-mhcqjz)
+* compatibility with dynamic modules in Thrive Architect (CU-n9bup4)
+* compatibility with Elementor video overlay and lightbox (CU-nkb66n)
+* compatibility with Pinterest JavaScript SDK (CU-nkaq8m)
+* compatibility with WP Rocket 3.9 (CU-nkav4w)
+* cookie groups are sortable again via drag & drop (CU-nhfmkt)
+* detect multisite / network wide plugins as active for services (CU-mzb2kw)
+* do not hide blocked elements when they use visual parent from children element
+* do not show banner for browsers without cookie support (CU-v77cgg)
+* do not stop code execution for opt-in scripts and content blocker when blocked through Ad blocker (CU-ndd0dp)
+* explain where to find Google Adwords ID in Google Ads service template (CU-mtav6f)
+* lite version dashboard not scrollable (CU-nd8e07)
+* typo in Google Maps content blocker description
+
+
+
+
+
 # 2.3.0 (2021-06-15)
 
 
