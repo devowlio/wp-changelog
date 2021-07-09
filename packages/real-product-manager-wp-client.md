@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.5 (2021-07-09)
+
+
+### fix
+
+* consider port 80 and 443 not as new host for license invalidation
+* do not invalidate license in some rare cases
+
+
+
+
+
 ## 1.7.4 (2021-06-05)
 
 

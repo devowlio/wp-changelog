@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.0.10 (2021-07-09)
+
+
+### fix
+
+* compatibility with Beaver Builder templates (CU-mxf9t2)
+
+
+
+
+
 ## 4.0.9 (2021-06-05)
 
 **Note:** Version bump only for package @devowl-wp/real-category-library

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.4.2 (2021-07-09)
+
+
+### fix
+
+* compatibility with WP Rocket 3.9 (CU-nkav4w)
+
+
+
+
+
 ## 1.4.1 (2021-05-25)
 
 
