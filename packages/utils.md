@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.6 (2021-07-13)
+
+
+### fix
+
+* avoid to check for absolute pathes in Localization overwrites to avoid open_basedir issues (CU-nnff7m)
+
+
+
+
+
 ## 1.10.5 (2021-06-05)
 
 

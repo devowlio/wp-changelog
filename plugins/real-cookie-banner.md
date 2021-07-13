@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.4.1 (2021-07-13)
+
+
+### chore
+
+* update compatibility with WordPress 5.8 (CU-n9dfx9)
+
+
+### fix
+
+* imported content blockers leads to empty admin page in lite version (CU-nzc6gg)
+
+
+
+
+
 # 2.4.0 (2021-07-09)
 
 
