@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.8.2 (2021-07-16)
+
+
+### fix
+
+* customizer prints Array as input value for CSS margin / padding fields (CU-nva63b)
+
+
+
+
+
 ## 1.8.1 (2021-05-25)
 
 

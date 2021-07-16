@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.5.0 (2021-07-16)
+
+
+### chore
+
+* update compatibility with WordPress 5.8 (CU-n9dfx9)
+
+
+### feat
+
+* new service and content blocker preset Podigee (CU-nzbb2q)
+
+
+### fix
+
+* assign GetYourGuide preset to Marketing cookie group instead of Functional (CU-nv85ef)
+* imported content blockers leads to empty admin page in lite version (CU-nzc6gg)
+* regex for Google Ads Conversation Tracking ID too strict
+
+
+
+
+
 # 2.4.0 (2021-07-09)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.13.12 (2021-07-16)
+
+
+### chore
+
+* update compatibility with WordPress 5.8 (CU-n9dfx9)
+
+
+### fix
+
+* compatibility with WordPress 5.8 (CU-n9dfx9)
+
+
+
+
+
 ## 4.13.11 (2021-06-05)
 
 
