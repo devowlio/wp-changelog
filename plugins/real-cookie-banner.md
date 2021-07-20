@@ -3,6 +3,97 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.6.0 (2021-07-20)
+
+
+### chore
+
+* introduce new developer filter RCB/Blocker/IsBlocked/AllowMultiple and RCB/Blocker/ResolveBlockables (CU-7mvhak)
+* new developer filter RCB/Blocker/SelectorSyntax/IsBlocked
+* update texts for scanner tab (hint, CU-mtddjt)
+
+
+### docs
+
+* service scanner featured in wordpress.org description (CU-n9cuyh)
+
+
+### feat
+
+* add 9 new content blockers for existing services (CU-mtdp7v)
+* add content blocker for 19 services so the scanner can find it (CU-mtdp7v)
+* add new checklist item to scan the website (CU-mk8ec0)
+* allow to create a new service from scratch directly within a content blocker form (CU-mk8ec0)
+* allow to scan also essential services which could not be blocked (e.g. Elementor)
+* automatically rescan updated posts
+* block link preconnect's and dns-prefetch's automatically based on URL hosts defined in content blocker (CU-nn7g16)
+* handle external URLs popover with Cookie Experts dialog (CU-mk8ec0)
+* introduce client worker and localStorage restore functionality (CU-kh49jp)
+* introduce functionality to find sitemap or fallback to WP default if not existing (CU-kfbzc6)
+* introduce mechanism to scan a site for usable presets and external URLs (CU-kf71p4)
+* introduce new package @devowl-wp/sitemap-crawler to parse and crawl a sitemap (CU-kh49jp)
+* introduce scanner UI for found presets and external URLs (CU-m57phr)
+* introduce UI for scanned markups for predefined presets (CU-m57phr)
+* new service and content blocker preset Ad Inserter (plugin, CU-kvcmp7)
+* popup notification when scan hast finished and allow to ignore external URLs (CU-m57phr)
+* show global notice when using services without consent
+* show recommended services not by content blocker but by dependency (CU-mtdp7v)
+* translate scanner into German (CU-n9cuyh)
+* use @devowl-wp/real-queue to scan the complete website (CU-kh49jp)
+
+
+### fix
+
+* allow to block the same element by multiple attributes (CU-p3agpd)
+* always save the markup so redundant external URLs can be wiped (CU-mtdp7v)
+* automatically start scan process for the first time
+* be more loose when getting and parsing the sitemap
+* block ad block from Ad Inserter newer than 2.7.2 in content blocker template (CU-kvcmp7)
+* compatibility with latest Thrive Architect plugin (CU-p3agpd)
+* create new service within content blocker shows zero as prefilled group
+* do not add duplicate URLs to queue
+* do not enqueue real-queue on frontend for logged-in users
+* improve German translations for scanner (CU-n9cuyh)
+* native integration for Analytify preset (disabled status, CU-n1f1xc)
+* native integration for GA Google Analytics preset (disabled status, CU-n1f1xc)
+* native integration for MonsterInsights preset (disabled status, CU-n1f1xc)
+* native integration for RankMath SEO Google Analytics (install code, CU-n1bd59)
+* native integration for WooCommerce Google Analytics preset (disabled status, CU-n1f1xc)
+* preset WordPress Emojis should also block the DNS prefetch
+* remove extended presets from scan results
+* review 1 (CU-mtdp7v, CU-n1f1xc)
+* review 2 (CU-7mvhak)
+* review 3 (CU-7mvhak)
+* review user tests #1 (CU-nvafz0)
+* review user tests #2 (CU-nvafz0)
+* split Google Analytics into two content blockers UA and V4 (CU-nq8c3j)
+* tag to fully blocked associated with found count instead of distinct of sites count
+* use correct cookie experts link (CU-mtddaa)
+
+
+### perf
+
+* speed up scan process by reducing server requests (CU-nvafz0)
+
+
+### refactor
+
+* introduce new keywords needs for presets (CU-mzf8gj)
+* move code dynamic fields to preset attributes (CU-h38crf)
+* presets extends should no longer be a class name, instead use identifier (CU-n19da6)
+* use instance for blocked result in RCB/Blocker/IsBlocked filters (CU-nxeknj)
+
+
+### style
+
+* background color for recommandations admin bar menu
+* gray out already existing prestes in service and content blocker template screen
+* move Google Ads hint about Adwords ID to the input field
+
+
+
+
+
 # 2.5.0 (2021-07-16)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.3 (2021-07-20)
+
+
+### build
+
+* isolate custom global CSS per plugin / package
+
+
+### fix
+
+* naming for setimmediate
+
+
+
+
+
 ## 0.1.2 (2021-05-25)
 
 

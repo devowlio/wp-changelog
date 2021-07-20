@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 4.14.0 (2021-07-20)
+
+
+### feat
+
+* translate scanner into German (CU-n9cuyh)
+
+
+
+
+
 ## 4.13.12 (2021-07-16)
 
 
@@ -803,7 +814,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### docs
 
-* add new compatibilities of Real Media Library to 3th-party plugins
+* add new compatibilities of Real Media Library to 3rd-party plugins
 
 
 

@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.10.7 (2021-07-20)
+
+
+### fix
+
+* review 1 (CU-mtdp7v, CU-n1f1xc)
+* review 2 (CU-7mvhak)
+* review 3 (CU-7mvhak)
+
+
+
+
+
 ## 1.10.6 (2021-07-16)
 
 
